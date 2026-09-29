@@ -1,0 +1,205 @@
+[16:12:54] browser: chrome
+[16:12:55] sitemap /sitemap.xml: +0 urls
+[16:12:55] PAGE 1: https://bhavyaramesh.com/
+[16:12:55]   [desktop 1440px] loading
+[16:13:11]   [desktop] stitched screenshot
+[16:13:18]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=58
+[16:13:37]   [tablet 834px] loading
+[16:13:48]   [tablet] stitched screenshot
+[16:13:55]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=58
+[16:14:03]   [mobile 390px] loading
+[16:14:32]   [mobile] stitched screenshot
+[16:14:39]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=38
+[16:14:47] PAGE 2: https://bhavyaramesh.com/pages/retail-store
+[16:14:47]   [desktop 1440px] loading
+[16:14:59]   [desktop] stitched screenshot
+[16:15:02]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:15:08]   [tablet 834px] loading
+[16:15:20]   [tablet] stitched screenshot
+[16:15:23]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:15:29]   [mobile 390px] loading
+[16:15:40]   [mobile] stitched screenshot
+[16:15:45]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=26
+[16:15:49] PAGE 3: https://bhavyaramesh.com/blogs/journal
+[16:15:49]   [desktop 1440px] loading
+[16:16:00]   [desktop] stitched screenshot
+[16:16:04]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:16:35]   [tablet 834px] loading
+[16:16:45]   [tablet] stitched screenshot
+[16:16:49]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:16:54]   [mobile 390px] loading
+[16:17:06]   [mobile] stitched screenshot
+[16:17:09]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:17:14] PAGE 4: https://bhavyaramesh.com/pages/about-us
+[16:17:14]   [desktop 1440px] loading
+[16:17:27]   [desktop] stitched screenshot
+[16:17:34]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:17:46]   [tablet 834px] loading
+[16:17:56]   [tablet] stitched screenshot
+[16:18:03]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:18:13]   [mobile 390px] loading
+[16:18:24]   [mobile] stitched screenshot
+[16:18:28]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:18:39] PAGE 5: https://bhavyaramesh.com/pages/swym-wishlist
+[16:18:40]   [desktop 1440px] loading
+[16:18:51]   [desktop] stitched screenshot
+[16:18:53]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=26
+[16:18:57]   [tablet 834px] loading
+[16:19:07]   [tablet] stitched screenshot
+[16:19:09]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=26
+[16:19:12]   [mobile 390px] loading
+[16:19:21]   [mobile] stitched screenshot
+[16:19:23]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=26
+[16:19:27] PAGE 6: https://bhavyaramesh.com/cart
+[16:19:27]   [desktop 1440px] loading
+[16:19:36]   [desktop] stitched screenshot
+[16:19:38]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=22
+[16:19:43]   [tablet 834px] loading
+[16:20:08]   [tablet] stitched screenshot
+[16:20:11]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=22
+[16:20:15]   [mobile 390px] loading
+[16:20:24]   [mobile] stitched screenshot
+[16:20:25]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=23
+[16:20:27] PAGE 7: https://bhavyaramesh.com/collections/all-products
+[16:20:27]   [desktop 1440px] loading
+[16:20:55]   [desktop] stitched screenshot
+[16:21:02]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=80
+[16:22:36]   [tablet 834px] loading
+[16:22:48]   [tablet] stitched screenshot
+[16:22:53]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=80
+[16:22:57]   [mobile 390px] loading
+[16:23:10]   [mobile] stitched screenshot
+[16:23:16]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=44
+[16:23:21] PAGE 8: https://bhavyaramesh.com/collections/new-in
+[16:23:21]   [desktop 1440px] loading
+[16:23:49]   [desktop] stitched screenshot
+[16:23:55]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=79
+[16:25:27]   [tablet 834px] loading
+[16:25:54]   [tablet] stitched screenshot
+[16:25:59]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=79
+[16:26:03]   [mobile 390px] loading
+[16:26:16]   [mobile] stitched screenshot
+[16:26:22]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=43
+[16:26:27] PAGE 9: https://bhavyaramesh.com/collections/sunglasses
+[16:26:27]   [desktop 1440px] loading
+[16:26:55]   [desktop] stitched screenshot
+[16:27:01]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=81
+[16:28:36]   [tablet 834px] loading
+[16:29:03]   [tablet] stitched screenshot
+[16:29:09]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=81
+[16:29:13]   [mobile 390px] loading
+[16:29:26]   [mobile] stitched screenshot
+[16:29:32]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=45
+[16:29:37] PAGE 10: https://bhavyaramesh.com/collections/glarekillers
+[16:29:37]   [desktop 1440px] loading
+[16:29:50]   [desktop] stitched screenshot
+[16:29:55]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=75
+[16:30:04]   [tablet 834px] loading
+[16:30:17]   [tablet] stitched screenshot
+[16:30:22]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=74
+[16:30:27]   [mobile 390px] loading
+[16:30:54]   [mobile] stitched screenshot
+[16:30:59]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=42
+[16:31:02] PAGE 11: https://bhavyaramesh.com/collections/stare
+[16:31:02]   [desktop 1440px] loading
+[16:31:29]   [desktop] stitched screenshot
+[16:31:34]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=70
+[16:31:39]   [tablet 834px] loading
+[16:31:49]   [tablet] stitched screenshot
+[16:31:54]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=69
+[16:31:59]   [mobile 390px] loading
+[16:32:12]   [mobile] stitched screenshot
+[16:32:16]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=40
+[16:32:21] PAGE 12: https://bhavyaramesh.com/collections/nail-crown
+[16:32:21]   [desktop 1440px] loading
+[16:32:34]   [desktop] stitched screenshot
+[16:32:39]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=71
+[16:34:00]   [tablet 834px] loading
+[16:34:12]   [tablet] stitched screenshot
+[16:34:16]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=72
+[16:34:22]   [mobile 390px] loading
+[16:34:33]   [mobile] stitched screenshot
+[16:34:37]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=42
+[16:34:42] PAGE 13: https://bhavyaramesh.com/collections/jalebi
+[16:34:42]   [desktop 1440px] loading
+[16:34:54]   [desktop] stitched screenshot
+[16:35:00]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=80
+[16:36:37]   [tablet 834px] loading
+[16:37:05]   [tablet] stitched screenshot
+[16:37:10]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=80
+[16:37:14]   [mobile 390px] loading
+[16:37:25]   [mobile] stitched screenshot
+[16:37:31]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=45
+[16:37:36] PAGE 14: https://bhavyaramesh.com/collections/harmony
+[16:37:36]   [desktop 1440px] loading
+[16:37:49]   [desktop] stitched screenshot
+[16:37:55]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=81
+[16:39:19]   [tablet 834px] loading
+[16:39:31]   [tablet] stitched screenshot
+[16:39:37]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=81
+[16:39:42]   [mobile 390px] loading
+[16:39:54]   [mobile] stitched screenshot
+[16:39:59]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=44
+[16:40:03] PAGE 15: https://bhavyaramesh.com/collections/gilga
+[16:40:03]   [desktop 1440px] loading
+[16:40:14]   [desktop] stitched screenshot
+[16:40:21]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=80
+[16:42:02]   [tablet 834px] loading
+[16:42:15]   [tablet] stitched screenshot
+[16:42:21]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=81
+[16:42:26]   [mobile 390px] loading
+[16:42:54]   [mobile] stitched screenshot
+[16:43:00]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=45
+[16:43:05] PAGE 16: https://bhavyaramesh.com/collections
+[16:43:06]   [desktop 1440px] loading
+[16:43:18]   [desktop] stitched screenshot
+[16:43:26]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=26
+[16:43:49]   [tablet 834px] loading
+[16:44:04]   [tablet] stitched screenshot
+[16:44:16]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:44:42]   [mobile 390px] loading
+[16:44:56]   [mobile] stitched screenshot
+[16:45:06]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=27
+[16:45:30] PAGE 17: https://bhavyaramesh.com/collections/all-products/occasion-bridal
+[16:45:31]   [desktop 1440px] loading
+[16:45:58]   [desktop] stitched screenshot
+[16:46:05]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=81
+Traceback (most recent call last):
+  File "E:\sitekit\sitekit\sitecloner\run.py", line 78, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "E:\sitekit\sitekit\sitecloner\run.py", line 62, in main
+    crawl = Crawler(cfg).run()
+  File "E:\sitekit\sitekit\sitecloner\sitecloner\crawler.py", line 356, in run
+    self._capture_page(ctx, url, depth)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "E:\sitekit\sitekit\sitecloner\sitecloner\crawler.py", line 249, in _capture_page
+    page = ctx.new_page()
+  File "E:\sitekit\sitekit\.venv\Lib\site-packages\playwright\sync_api\_generated.py", line 14606, in new_page
+    return mapping.from_impl(self._sync(self._impl_obj.new_page()))
+                             ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\sitekit\sitekit\.venv\Lib\site-packages\playwright\_impl\_sync_base.py", line 113, in _sync
+    self._dispatcher_fiber.switch()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "E:\sitekit\sitekit\.venv\Lib\site-packages\playwright\sync_api\_context_manager.py", line 55, in greenlet_main
+    self._loop.run_until_complete(self._connection.run_as_sync())
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 707, in run_until_complete
+    self.run_forever()
+    ~~~~~~~~~~~~~~~~^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 678, in run_forever
+    self._run_once()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Python314\Lib\asyncio\base_events.py", line 2019, in _run_once
+    event_list = self._selector.select(timeout)
+  File "C:\Python314\Lib\asyncio\windows_events.py", line 446, in select
+    self._poll(timeout)
+    ~~~~~~~~~~^^^^^^^^^
+  File "C:\Python314\Lib\asyncio\windows_events.py", line 778, in _poll
+    status = _overlapped.GetQueuedCompletionStatus(self._iocp, ms)
+KeyboardInterrupt
+Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Task was destroyed but it is pending!
+task: <Task cancelling name='Task-9003' coro=<BrowserContext.new_page() done, defined at E:\sitekit\sitekit\.venv\Lib\site-packages\playwright\_impl\_browser_context.py:350> wait_for=<Future finished result=None> cb=[SyncBase._sync.<locals>.<lambda>() at E:\sitekit\sitekit\.venv\Lib\site-packages\playwright\_impl\_sync_base.py:111]>

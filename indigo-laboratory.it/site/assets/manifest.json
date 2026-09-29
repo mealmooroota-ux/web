@@ -1,0 +1,3369 @@
+{
+  "https://indigo-laboratory.it/_nuxt/entry.DaEl3vWv.css": {
+    "path": "css/_nuxt/entry.DaEl3vWv.css",
+    "type": "text/css",
+    "size": 48165,
+    "kind": "css",
+    "external": false
+  },
+  "https://indigo-laboratory.it/pages/homepage/hero/hero-background-desktop-poster.jpg": {
+    "path": "images/pages/homepage/hero/hero-background-desktop-poster.jpg",
+    "type": "image/jpeg",
+    "size": 6474,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/useChapters.BqFtHDhU.css": {
+    "path": "css/_nuxt/useChapters.BqFtHDhU.css",
+    "type": "text/css",
+    "size": 2208,
+    "kind": "css",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/h8oTVKJW.js": {
+    "path": "js/_nuxt/h8oTVKJW.js",
+    "type": "application/javascript",
+    "size": 120794,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/Dzdiwytj.js": {
+    "path": "js/_nuxt/Dzdiwytj.js",
+    "type": "application/javascript",
+    "size": 58564,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/ring-float-240x240.webp": {
+    "path": "images/chapters/01_rhythm/ring-float-240x240.webp",
+    "type": "image/webp",
+    "size": 5348,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/ring-float-80x80.webp": {
+    "path": "images/chapters/01_rhythm/ring-float-80x80.webp",
+    "type": "image/webp",
+    "size": 1260,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/ring-float-80x80.webp": {
+    "path": "images/chapters/02_pulse/ring-float-80x80.webp",
+    "type": "image/webp",
+    "size": 1608,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/ring-float-80x80.webp": {
+    "path": "images/chapters/03_whisper/ring-float-80x80.webp",
+    "type": "image/webp",
+    "size": 1272,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/ring-float-80x80.webp": {
+    "path": "images/chapters/04_resonance/ring-float-80x80.webp",
+    "type": "image/webp",
+    "size": 1402,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/ring-float-80x80.webp": {
+    "path": "images/chapters/05_subnoise/ring-float-80x80.webp",
+    "type": "image/webp",
+    "size": 1600,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/ring-float-240x240.webp": {
+    "path": "images/chapters/02_pulse/ring-float-240x240.webp",
+    "type": "image/webp",
+    "size": 6026,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/ring-float-240x240.webp": {
+    "path": "images/chapters/03_whisper/ring-float-240x240.webp",
+    "type": "image/webp",
+    "size": 4830,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/ring-float-240x240.webp": {
+    "path": "images/chapters/04_resonance/ring-float-240x240.webp",
+    "type": "image/webp",
+    "size": 5396,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/D8sjnv_6.js": {
+    "path": "js/_nuxt/D8sjnv_6.js",
+    "type": "application/javascript",
+    "size": 5489,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/CBlNbkdS.js": {
+    "path": "js/_nuxt/CBlNbkdS.js",
+    "type": "application/javascript",
+    "size": 17682,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/BTSFF8EG.js": {
+    "path": "js/_nuxt/BTSFF8EG.js",
+    "type": "application/javascript",
+    "size": 63084,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/DpDMbjNe.js": {
+    "path": "js/_nuxt/DpDMbjNe.js",
+    "type": "application/javascript",
+    "size": 111364,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/BLgmL7wi.js": {
+    "path": "js/_nuxt/BLgmL7wi.js",
+    "type": "application/javascript",
+    "size": 378524,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/ring-float-240x240.webp": {
+    "path": "images/chapters/05_subnoise/ring-float-240x240.webp",
+    "type": "image/webp",
+    "size": 6632,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 135910,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/ring-full.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 45416,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/ring-full.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 95484,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/ring-full.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 63230,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/ring-full.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 96120,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/pages/homepage/intro/intro-02.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/pages/homepage/intro/intro-02.jpg",
+    "type": "image/jpeg",
+    "size": 22836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/pages/homepage/intro/intro-01.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/pages/homepage/intro/intro-01.jpg",
+    "type": "image/jpeg",
+    "size": 34830,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 145978,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/ring-full.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 86134,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 145346,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 152222,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 141028,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/WhblOdln29fCCx9m7O0dIv0_42YhVDfz855Bfd9UnwU-H2Z_VZcSFRfJNb6OwXdb5yPreYikZIVuwKW4Z_sOKjQ.woff": {
+    "path": "fonts/_fonts/WhblOdln29fCCx9m7O0dIv0_42YhVDfz855Bfd9UnwU-H2Z_VZcSFRfJNb6OwXdb5yPreYikZIVuwKW4Z_sOKjQ.woff",
+    "type": "font/woff",
+    "size": 27064,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/lDUX5n8-09eLpuk3sDqI8m8JteKPKzJV2KSbFrwOG7I-lA2D_FNj4zk69MUuDxmxqAIG-PHFz99T_IywwwRUpC4.woff": {
+    "path": "fonts/_fonts/lDUX5n8-09eLpuk3sDqI8m8JteKPKzJV2KSbFrwOG7I-lA2D_FNj4zk69MUuDxmxqAIG-PHFz99T_IywwwRUpC4.woff",
+    "type": "font/woff",
+    "size": 27504,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/sCAG6KndK_x8FQzMYhPhkMcFZUukFOUsnfI5cfHc-Nw-WJqYMNR1vIKE_Y7C80DZtGqF3YvY6y1V1RC0HwloWTE.woff": {
+    "path": "fonts/_fonts/sCAG6KndK_x8FQzMYhPhkMcFZUukFOUsnfI5cfHc-Nw-WJqYMNR1vIKE_Y7C80DZtGqF3YvY6y1V1RC0HwloWTE.woff",
+    "type": "font/woff",
+    "size": 27412,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/kvHLqd_-7F2st1RThWUr8FX96d39vtYX5QKKxCTBsrk-XshldaW92dfBPQ9jvQ_cNxYj3-zpwO-E6KnoH-gY0dE.woff": {
+    "path": "fonts/_fonts/kvHLqd_-7F2st1RThWUr8FX96d39vtYX5QKKxCTBsrk-XshldaW92dfBPQ9jvQ_cNxYj3-zpwO-E6KnoH-gY0dE.woff",
+    "type": "font/woff",
+    "size": 51092,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/ITKQRd5Aylfic18AHlW-KMvko-uduVmOjb_JMu86D7s-2RWDiJxLyFN3RzfotQTHzfYoOzqMwZGsItyjMx9I9hs.woff": {
+    "path": "fonts/_fonts/ITKQRd5Aylfic18AHlW-KMvko-uduVmOjb_JMu86D7s-2RWDiJxLyFN3RzfotQTHzfYoOzqMwZGsItyjMx9I9hs.woff",
+    "type": "font/woff",
+    "size": 70316,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_payload.json?aa5e850b-b565-4f31-9fc4-c4ee961416b8": {
+    "path": "data/_payload-2265a1.json",
+    "type": "application/json",
+    "size": 44677,
+    "kind": "data",
+    "external": false
+  },
+  "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495": {
+    "path": "js/static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495.js",
+    "type": "text/javascript",
+    "size": 30294,
+    "kind": "js",
+    "external": true
+  },
+  "https://indigo-laboratory.it/pages/homepage/hero/hero-background-desktop.mp4": {
+    "path": "video/pages/homepage/hero/hero-background-desktop.mp4",
+    "type": "video/mp4",
+    "size": 17378,
+    "kind": "video",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/index.DeD-n06m.css": {
+    "path": "css/_nuxt/index.DeD-n06m.css",
+    "type": "text/css",
+    "size": 41297,
+    "kind": "css",
+    "external": false
+  },
+  "https://indigo-laboratory.it/cdn-cgi/challenge-platform/h/b/scripts/jsd/d76008a69eab/main.js?": {
+    "path": "js/cdn-cgi/challenge-platform/h/b/scripts/jsd/d76008a69eab/main.js",
+    "type": "application/javascript",
+    "size": 20183,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_i18n/TeOABji7/en/messages.json": {
+    "path": "data/_i18n/TeOABji7/en/messages.json",
+    "type": "application/json",
+    "size": 317,
+    "kind": "data",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/default.w_WESe8R.css": {
+    "path": "css/_nuxt/default.w_WESe8R.css",
+    "type": "text/css",
+    "size": 46153,
+    "kind": "css",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/DP21GyD1.js": {
+    "path": "js/_nuxt/DP21GyD1.js",
+    "type": "application/javascript",
+    "size": 107318,
+    "kind": "js",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/gallery/chains-ring.jpg": {
+    "path": "images/chapters/01_rhythm/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 826562,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/gallery/rock-ring.jpg": {
+    "path": "images/chapters/04_resonance/gallery/rock-ring.jpg",
+    "type": "image/jpeg",
+    "size": 288380,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/gallery/philosopher.jpg": {
+    "path": "images/chapters/01_rhythm/gallery/philosopher.jpg",
+    "type": "image/jpeg",
+    "size": 807518,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/gallery/selenes-orbit.jpg": {
+    "path": "images/chapters/01_rhythm/gallery/selenes-orbit.jpg",
+    "type": "image/jpeg",
+    "size": 823032,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/gallery/column-ring.jpg": {
+    "path": "images/chapters/02_pulse/gallery/column-ring.jpg",
+    "type": "image/jpeg",
+    "size": 821230,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/gallery/broken-heart.jpg": {
+    "path": "images/chapters/01_rhythm/gallery/broken-heart.jpg",
+    "type": "image/jpeg",
+    "size": 805713,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/gallery/lava-ring.jpg": {
+    "path": "images/chapters/02_pulse/gallery/lava-ring.jpg",
+    "type": "image/jpeg",
+    "size": 808896,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/gallery/dangle-earrings.jpg": {
+    "path": "images/chapters/03_whisper/gallery/dangle-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 610411,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/gallery/delta.jpg": {
+    "path": "images/chapters/02_pulse/gallery/delta.jpg",
+    "type": "image/jpeg",
+    "size": 764528,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/gallery/morph-ring.jpg": {
+    "path": "images/chapters/02_pulse/gallery/morph-ring.jpg",
+    "type": "image/jpeg",
+    "size": 770037,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/gallery/selene-ring.jpg": {
+    "path": "images/chapters/01_rhythm/gallery/selene-ring.jpg",
+    "type": "image/jpeg",
+    "size": 841785,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/gallery/island-earrings.jpg": {
+    "path": "images/chapters/05_subnoise/gallery/island-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 820709,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/gallery/chains-ring.jpg": {
+    "path": "images/chapters/05_subnoise/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 826562,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/gallery/axis-ring.jpg": {
+    "path": "images/chapters/04_resonance/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 829920,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/gallery/chains-ring.jpg": {
+    "path": "images/chapters/02_pulse/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 826562,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/gallery/rude.jpg": {
+    "path": "images/chapters/04_resonance/gallery/rude.jpg",
+    "type": "image/jpeg",
+    "size": 791425,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/gallery/raw-ring.jpg": {
+    "path": "images/chapters/04_resonance/gallery/raw-ring.jpg",
+    "type": "image/jpeg",
+    "size": 835010,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/gallery/cage-ear-cuff.jpg": {
+    "path": "images/chapters/05_subnoise/gallery/cage-ear-cuff.jpg",
+    "type": "image/jpeg",
+    "size": 1003641,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/gallery/aura-earrings.jpg": {
+    "path": "images/chapters/01_rhythm/gallery/aura-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 835972,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/gallery/petal-earrings.jpg": {
+    "path": "images/chapters/03_whisper/gallery/petal-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 895644,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/gallery/chains-ring.jpg": {
+    "path": "images/chapters/04_resonance/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 826562,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/gallery/layer-ring.jpg": {
+    "path": "images/chapters/03_whisper/gallery/layer-ring.jpg",
+    "type": "image/jpeg",
+    "size": 813617,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/gallery/axis-ring.jpg": {
+    "path": "images/chapters/03_whisper/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 829920,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/gallery/undertow-ring.jpg": {
+    "path": "images/chapters/05_subnoise/gallery/undertow-ring.jpg",
+    "type": "image/jpeg",
+    "size": 832844,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/gallery/coral.jpg": {
+    "path": "images/chapters/05_subnoise/gallery/coral.jpg",
+    "type": "image/jpeg",
+    "size": 1021694,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/gallery/libra.jpg": {
+    "path": "images/chapters/03_whisper/gallery/libra.jpg",
+    "type": "image/jpeg",
+    "size": 922245,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/05_subnoise/sounds/subnoise-ambient.opus": {
+    "path": "other/chapters/05_subnoise/sounds/subnoise-ambient.opus",
+    "type": "audio/ogg",
+    "size": 768947,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_nuxt/builds/meta/aa5e850b-b565-4f31-9fc4-c4ee961416b8.json": {
+    "path": "data/_nuxt/builds/meta/aa5e850b-b565-4f31-9fc4-c4ee961416b8.json",
+    "type": "application/json",
+    "size": 91,
+    "kind": "data",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/01_rhythm/sounds/rhytm-ambient.opus": {
+    "path": "other/chapters/01_rhythm/sounds/rhytm-ambient.opus",
+    "type": "audio/ogg",
+    "size": 751315,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/04_resonance/sounds/resonance-ambient.opus": {
+    "path": "other/chapters/04_resonance/sounds/resonance-ambient.opus",
+    "type": "audio/ogg",
+    "size": 909553,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/pages/homepage/hero/hero-bg.opus": {
+    "path": "other/pages/homepage/hero/hero-bg.opus",
+    "type": "audio/ogg",
+    "size": 881465,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/02_pulse/sounds/pulse-ambient.opus": {
+    "path": "other/chapters/02_pulse/sounds/pulse-ambient.opus",
+    "type": "audio/ogg",
+    "size": 639418,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/chapters/03_whisper/sounds/whisper-ambient.opus": {
+    "path": "other/chapters/03_whisper/sounds/whisper-ambient.opus",
+    "type": "audio/ogg",
+    "size": 4933,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/head-2.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 18426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/head-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 146608,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 96552,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 62798,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/head-1.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 11400,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 34862,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/gallery/philosopher.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/gallery/philosopher.jpg",
+    "type": "image/jpeg",
+    "size": 40028,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg",
+    "type": "image/jpeg",
+    "size": 39918,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/gallery/selene-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/gallery/selene-ring.jpg",
+    "type": "image/jpeg",
+    "size": 36938,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/gallery/aura-earrings.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/gallery/aura-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 33852,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/gallery/broken-heart.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/gallery/broken-heart.jpg",
+    "type": "image/jpeg",
+    "size": 42864,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/outro-maker.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 34864,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/head-2.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 22350,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/head-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 180504,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/head-1.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 17308,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 93410,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 152304,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/gallery/column-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/gallery/column-ring.jpg",
+    "type": "image/jpeg",
+    "size": 41144,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/gallery/delta.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/gallery/delta.jpg",
+    "type": "image/jpeg",
+    "size": 42402,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/gallery/morph-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/gallery/morph-ring.jpg",
+    "type": "image/jpeg",
+    "size": 34802,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/gallery/lava-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/gallery/lava-ring.jpg",
+    "type": "image/jpeg",
+    "size": 36676,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 34862,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/outro-maker.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 48892,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/head-2.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 16128,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/head-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 82820,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 76164,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 185008,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/head-1.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 22266,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/gallery/dangle-earrings.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/gallery/dangle-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 22198,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/gallery/layer-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/gallery/layer-ring.jpg",
+    "type": "image/jpeg",
+    "size": 44274,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 41974,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/gallery/libra.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/gallery/libra.jpg",
+    "type": "image/jpeg",
+    "size": 56622,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/gallery/petal-earrings.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/gallery/petal-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 50968,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/outro-maker.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 55552,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/head-2.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 25224,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/head-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 277982,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/head-1.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 19064,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 59054,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 97802,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 41974,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/gallery/rude.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/gallery/rude.jpg",
+    "type": "image/jpeg",
+    "size": 29268,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/gallery/raw-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/gallery/raw-ring.jpg",
+    "type": "image/jpeg",
+    "size": 34972,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/gallery/rock-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/gallery/rock-ring.jpg",
+    "type": "image/jpeg",
+    "size": 18514,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 34862,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/outro-maker.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 30244,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/head-2.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 32334,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/head-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 169462,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 139060,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/head-1.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 18034,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 62670,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg",
+    "type": "image/jpeg",
+    "size": 52232,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 34862,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/gallery/undertow-ring.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/gallery/undertow-ring.jpg",
+    "type": "image/jpeg",
+    "size": 38420,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/gallery/coral.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/gallery/coral.jpg",
+    "type": "image/jpeg",
+    "size": 63832,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/gallery/island-earrings.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/gallery/island-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 31630,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/outro-maker.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 38454,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/pages/homepage/hero/hero-background-mobile.mp4": {
+    "path": "video/pages/homepage/hero/hero-background-mobile.mp4",
+    "type": "video/mp4",
+    "size": 4840410,
+    "kind": "video",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/pages/homepage/intro/intro-01.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/pages/homepage/intro/intro-01.jpg",
+    "type": "image/jpeg",
+    "size": 34830,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/pages/homepage/intro/intro-01.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/pages/homepage/intro/intro-01.jpg",
+    "type": "image/jpeg",
+    "size": 34830,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/pages/homepage/intro/intro-01.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/pages/homepage/intro/intro-01.jpg",
+    "type": "image/jpeg",
+    "size": 34830,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/pages/homepage/intro/intro-01.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/pages/homepage/intro/intro-01.jpg",
+    "type": "image/jpeg",
+    "size": 34830,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/pages/homepage/intro/intro-02.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/pages/homepage/intro/intro-02.jpg",
+    "type": "image/jpeg",
+    "size": 22836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/pages/homepage/intro/intro-02.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/pages/homepage/intro/intro-02.jpg",
+    "type": "image/jpeg",
+    "size": 22836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/pages/homepage/intro/intro-02.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/pages/homepage/intro/intro-02.jpg",
+    "type": "image/jpeg",
+    "size": 22836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/pages/homepage/intro/intro-02.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/pages/homepage/intro/intro-02.jpg",
+    "type": "image/jpeg",
+    "size": 22836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/cover-mobile.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 80500,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 219326,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 256848,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 256848,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 256848,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/cover-desktop.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 24444,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 61602,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 106084,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 310846,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/head-1.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 11400,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/head-1.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 11400,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/head-1.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 11400,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/head-1.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 11400,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/head-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 53460,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/head-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 205174,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/head-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 205174,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/head-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 205174,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/head-2.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 18426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/head-2.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 18426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/head-2.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 18426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/head-2.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 18426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 161716,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 213888,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 213888,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 213888,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/lookbook-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 31366,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 154396,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 154396,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 154396,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/01_rhythm/ring-full.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/01_rhythm/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 41894,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/ring-full.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 144900,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/ring-full.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 175836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/ring-full.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 293338,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/gallery/broken-heart.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/gallery/broken-heart.jpg",
+    "type": "image/jpeg",
+    "size": 178738,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/gallery/broken-heart.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/gallery/broken-heart.jpg",
+    "type": "image/jpeg",
+    "size": 294336,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/gallery/broken-heart.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/gallery/broken-heart.jpg",
+    "type": "image/jpeg",
+    "size": 366744,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/gallery/broken-heart.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/gallery/broken-heart.jpg",
+    "type": "image/jpeg",
+    "size": 454886,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/gallery/philosopher.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/gallery/philosopher.jpg",
+    "type": "image/jpeg",
+    "size": 169620,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/gallery/philosopher.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/gallery/philosopher.jpg",
+    "type": "image/jpeg",
+    "size": 282134,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/gallery/philosopher.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/gallery/philosopher.jpg",
+    "type": "image/jpeg",
+    "size": 350772,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/gallery/philosopher.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/gallery/philosopher.jpg",
+    "type": "image/jpeg",
+    "size": 438256,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg",
+    "type": "image/jpeg",
+    "size": 150004,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg",
+    "type": "image/jpeg",
+    "size": 259988,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg",
+    "type": "image/jpeg",
+    "size": 332456,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/gallery/selenes-orbit.jpg",
+    "type": "image/jpeg",
+    "size": 433572,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/gallery/selene-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/gallery/selene-ring.jpg",
+    "type": "image/jpeg",
+    "size": 174600,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/gallery/selene-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/gallery/selene-ring.jpg",
+    "type": "image/jpeg",
+    "size": 304736,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/gallery/selene-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/gallery/selene-ring.jpg",
+    "type": "image/jpeg",
+    "size": 387480,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/gallery/selene-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/gallery/selene-ring.jpg",
+    "type": "image/jpeg",
+    "size": 492806,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/gallery/aura-earrings.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/gallery/aura-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 160588,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/gallery/aura-earrings.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/gallery/aura-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 289522,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/gallery/aura-earrings.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/gallery/aura-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 371996,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/gallery/aura-earrings.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/gallery/aura-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 481038,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 153782,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 279000,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 360060,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 465228,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/01_rhythm/outro-maker.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/01_rhythm/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 74414,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/01_rhythm/outro-maker.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/01_rhythm/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 74414,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/01_rhythm/outro-maker.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/01_rhythm/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 74414,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/01_rhythm/outro-maker.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/01_rhythm/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 74414,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/cover-mobile.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 70378,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 192124,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 224342,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 224342,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 224342,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/cover-desktop.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 26438,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 64890,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 105962,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 290872,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/head-1.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 17308,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/head-1.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 17308,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/head-1.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 17308,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/head-1.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 17308,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/head-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 71050,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/head-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 249220,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/head-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 249220,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/head-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 249220,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/head-2.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 22350,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/head-2.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 22350,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/head-2.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 22350,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/head-2.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 22350,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 191694,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 218212,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 218212,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 218212,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/lookbook-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 62630,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 220426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 220426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 220426,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/02_pulse/ring-full.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/02_pulse/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 35088,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/ring-full.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 131090,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/ring-full.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 164340,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/ring-full.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 287292,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/gallery/column-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/gallery/column-ring.jpg",
+    "type": "image/jpeg",
+    "size": 168730,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/gallery/column-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/gallery/column-ring.jpg",
+    "type": "image/jpeg",
+    "size": 282566,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/gallery/column-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/gallery/column-ring.jpg",
+    "type": "image/jpeg",
+    "size": 355788,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/gallery/column-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/gallery/column-ring.jpg",
+    "type": "image/jpeg",
+    "size": 448526,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/gallery/delta.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/gallery/delta.jpg",
+    "type": "image/jpeg",
+    "size": 133932,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/gallery/delta.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/gallery/delta.jpg",
+    "type": "image/jpeg",
+    "size": 225848,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/gallery/delta.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/gallery/delta.jpg",
+    "type": "image/jpeg",
+    "size": 288720,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/gallery/delta.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/gallery/delta.jpg",
+    "type": "image/jpeg",
+    "size": 375448,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/gallery/lava-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/gallery/lava-ring.jpg",
+    "type": "image/jpeg",
+    "size": 152998,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/gallery/lava-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/gallery/lava-ring.jpg",
+    "type": "image/jpeg",
+    "size": 262950,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/gallery/lava-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/gallery/lava-ring.jpg",
+    "type": "image/jpeg",
+    "size": 334310,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/gallery/lava-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/gallery/lava-ring.jpg",
+    "type": "image/jpeg",
+    "size": 426992,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/gallery/morph-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/gallery/morph-ring.jpg",
+    "type": "image/jpeg",
+    "size": 154838,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/gallery/morph-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/gallery/morph-ring.jpg",
+    "type": "image/jpeg",
+    "size": 262056,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/gallery/morph-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/gallery/morph-ring.jpg",
+    "type": "image/jpeg",
+    "size": 329990,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/gallery/morph-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/gallery/morph-ring.jpg",
+    "type": "image/jpeg",
+    "size": 417256,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 153782,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 279000,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 360060,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 465228,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/02_pulse/outro-maker.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/02_pulse/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113330,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/02_pulse/outro-maker.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/02_pulse/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113330,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/02_pulse/outro-maker.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/02_pulse/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113330,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/02_pulse/outro-maker.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/02_pulse/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113330,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/cover-mobile.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 100824,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 253296,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 294904,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 294904,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 294904,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/cover-desktop.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 22986,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 58608,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 104996,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 327076,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/head-1.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 22266,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/head-1.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 22266,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/head-1.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 22266,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/head-1.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 22266,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/head-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 31814,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/head-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 141316,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/head-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 192702,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/head-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 250978,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/head-2.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 16128,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/head-2.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 16128,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/head-2.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 16128,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/head-2.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 16128,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 200594,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 265878,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 265878,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 265878,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/lookbook-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 58778,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 293560,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 293560,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 293560,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/03_whisper/ring-full.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/03_whisper/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 20378,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/ring-full.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 76290,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/ring-full.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 105030,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/ring-full.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 231772,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/gallery/dangle-earrings.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/gallery/dangle-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 72688,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/gallery/dangle-earrings.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/gallery/dangle-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 135978,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/gallery/dangle-earrings.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/gallery/dangle-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 182158,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/gallery/dangle-earrings.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/gallery/dangle-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 251150,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/gallery/layer-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/gallery/layer-ring.jpg",
+    "type": "image/jpeg",
+    "size": 179278,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/gallery/layer-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/gallery/layer-ring.jpg",
+    "type": "image/jpeg",
+    "size": 295058,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/gallery/layer-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/gallery/layer-ring.jpg",
+    "type": "image/jpeg",
+    "size": 366094,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/gallery/layer-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/gallery/layer-ring.jpg",
+    "type": "image/jpeg",
+    "size": 453252,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/gallery/libra.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/gallery/libra.jpg",
+    "type": "image/jpeg",
+    "size": 185850,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/gallery/libra.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/gallery/libra.jpg",
+    "type": "image/jpeg",
+    "size": 313550,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/gallery/libra.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/gallery/libra.jpg",
+    "type": "image/jpeg",
+    "size": 398764,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/gallery/libra.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/gallery/libra.jpg",
+    "type": "image/jpeg",
+    "size": 513366,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/gallery/petal-earrings.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/gallery/petal-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 186856,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/gallery/petal-earrings.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/gallery/petal-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 317620,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/gallery/petal-earrings.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/gallery/petal-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 402836,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/gallery/petal-earrings.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/gallery/petal-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 515732,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 176464,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 295008,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 369894,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 463240,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/03_whisper/outro-maker.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/03_whisper/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113508,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/03_whisper/outro-maker.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/03_whisper/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113508,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/03_whisper/outro-maker.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/03_whisper/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113508,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/03_whisper/outro-maker.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/03_whisper/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 113508,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/cover-mobile.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 110114,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 291074,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 334378,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 334378,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 334378,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/cover-desktop.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 28454,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 71008,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 114528,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 308044,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/head-1.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 19064,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/head-1.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 19064,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/head-1.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 19064,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/head-1.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 19064,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/head-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 108024,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/head-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 370056,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/head-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 370056,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/head-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 370056,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/head-2.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 25224,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/head-2.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 25224,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/head-2.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 25224,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/head-2.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 25224,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 140412,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 184666,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 184666,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 184666,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/lookbook-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 37566,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 165822,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 165822,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 165822,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/04_resonance/ring-full.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/04_resonance/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 24760,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/ring-full.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 190612,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/ring-full.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 280072,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/ring-full.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 280072,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 176464,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 295008,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 369894,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/gallery/axis-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/gallery/axis-ring.jpg",
+    "type": "image/jpeg",
+    "size": 463240,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/gallery/rock-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/gallery/rock-ring.jpg",
+    "type": "image/jpeg",
+    "size": 42778,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/gallery/rock-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/gallery/rock-ring.jpg",
+    "type": "image/jpeg",
+    "size": 61854,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/gallery/rock-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/gallery/rock-ring.jpg",
+    "type": "image/jpeg",
+    "size": 74796,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/gallery/rock-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/gallery/rock-ring.jpg",
+    "type": "image/jpeg",
+    "size": 91116,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/gallery/rude.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/gallery/rude.jpg",
+    "type": "image/jpeg",
+    "size": 135648,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/gallery/rude.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/gallery/rude.jpg",
+    "type": "image/jpeg",
+    "size": 248044,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/gallery/rude.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/gallery/rude.jpg",
+    "type": "image/jpeg",
+    "size": 321928,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/gallery/rude.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/gallery/rude.jpg",
+    "type": "image/jpeg",
+    "size": 421612,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 153782,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 279000,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 360060,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 465228,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/gallery/raw-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/gallery/raw-ring.jpg",
+    "type": "image/jpeg",
+    "size": 165204,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/gallery/raw-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/gallery/raw-ring.jpg",
+    "type": "image/jpeg",
+    "size": 293484,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/gallery/raw-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/gallery/raw-ring.jpg",
+    "type": "image/jpeg",
+    "size": 375642,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/gallery/raw-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/gallery/raw-ring.jpg",
+    "type": "image/jpeg",
+    "size": 481544,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/04_resonance/outro-maker.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/04_resonance/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 61408,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/04_resonance/outro-maker.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/04_resonance/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 61408,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/04_resonance/outro-maker.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/04_resonance/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 61408,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/04_resonance/outro-maker.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/04_resonance/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 61408,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/cover-mobile.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 78636,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 222770,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 257318,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 257318,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/cover-mobile.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/cover-mobile.jpg",
+    "type": "image/jpeg",
+    "size": 257318,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/cover-desktop.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 21662,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 58700,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 100662,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/cover-desktop.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/cover-desktop.jpg",
+    "type": "image/jpeg",
+    "size": 289434,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/head-1.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 18034,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/head-1.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 18034,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/head-1.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 18034,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/head-1.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/head-1.jpg",
+    "type": "image/jpeg",
+    "size": 18034,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/head-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 59256,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/head-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 229584,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/head-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 229584,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/head-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/head-main.jpg",
+    "type": "image/jpeg",
+    "size": 229584,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/head-2.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 32334,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/head-2.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 32334,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/head-2.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 32334,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/head-2.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/head-2.jpg",
+    "type": "image/jpeg",
+    "size": 32334,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 184838,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 250682,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 250682,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/lookbook-secondary.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/lookbook-secondary.jpg",
+    "type": "image/jpeg",
+    "size": 250682,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/lookbook-main.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 47706,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 215388,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 215388,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/lookbook-main.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/lookbook-main.jpg",
+    "type": "image/jpeg",
+    "size": 215388,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_640&f_webp&q_85/chapters/05_subnoise/ring-full.jpg": {
+    "path": "images/_ipx/w_640-f_webp-q_85/chapters/05_subnoise/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 28860,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/ring-full.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 98842,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/ring-full.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 129506,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/ring-full.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/ring-full.jpg",
+    "type": "image/jpeg",
+    "size": 247190,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg",
+    "type": "image/jpeg",
+    "size": 213698,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg",
+    "type": "image/jpeg",
+    "size": 377978,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg",
+    "type": "image/jpeg",
+    "size": 482438,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/gallery/cage-ear-cuff.jpg",
+    "type": "image/jpeg",
+    "size": 615604,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/gallery/coral.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/gallery/coral.jpg",
+    "type": "image/jpeg",
+    "size": 213526,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/gallery/coral.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/gallery/coral.jpg",
+    "type": "image/jpeg",
+    "size": 364912,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/gallery/coral.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/gallery/coral.jpg",
+    "type": "image/jpeg",
+    "size": 460864,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/gallery/coral.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/gallery/coral.jpg",
+    "type": "image/jpeg",
+    "size": 598526,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/gallery/undertow-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/gallery/undertow-ring.jpg",
+    "type": "image/jpeg",
+    "size": 164240,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/gallery/undertow-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/gallery/undertow-ring.jpg",
+    "type": "image/jpeg",
+    "size": 285282,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/gallery/undertow-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/gallery/undertow-ring.jpg",
+    "type": "image/jpeg",
+    "size": 361058,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/gallery/undertow-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/gallery/undertow-ring.jpg",
+    "type": "image/jpeg",
+    "size": 460784,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/gallery/island-earrings.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/gallery/island-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 156838,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/gallery/island-earrings.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/gallery/island-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 282792,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/gallery/island-earrings.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/gallery/island-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 365890,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/gallery/island-earrings.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/gallery/island-earrings.jpg",
+    "type": "image/jpeg",
+    "size": 471790,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 153782,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 279000,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 360060,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/gallery/chains-ring.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/gallery/chains-ring.jpg",
+    "type": "image/jpeg",
+    "size": 465228,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1024&f_webp&q_85/chapters/05_subnoise/outro-maker.jpg": {
+    "path": "images/_ipx/w_1024-f_webp-q_85/chapters/05_subnoise/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 86202,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1280&f_webp&q_85/chapters/05_subnoise/outro-maker.jpg": {
+    "path": "images/_ipx/w_1280-f_webp-q_85/chapters/05_subnoise/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 86202,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1440&f_webp&q_85/chapters/05_subnoise/outro-maker.jpg": {
+    "path": "images/_ipx/w_1440-f_webp-q_85/chapters/05_subnoise/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 86202,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_ipx/w_1920&f_webp&q_85/chapters/05_subnoise/outro-maker.jpg": {
+    "path": "images/_ipx/w_1920-f_webp-q_85/chapters/05_subnoise/outro-maker.jpg",
+    "type": "image/jpeg",
+    "size": 86202,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/favicon-16x16.png": {
+    "path": "images/favicon-16x16.png",
+    "type": "image/png",
+    "size": 200,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/favicon-32x32.png": {
+    "path": "images/favicon-32x32.png",
+    "type": "image/png",
+    "size": 261,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/favicon-96x96.png": {
+    "path": "images/favicon-96x96.png",
+    "type": "image/png",
+    "size": 656,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/favicon.svg": {
+    "path": "images/favicon.svg",
+    "type": "image/svg+xml",
+    "size": 773,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/apple-touch-icon.png": {
+    "path": "images/apple-touch-icon.png",
+    "type": "image/png",
+    "size": 1545,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/favicon.ico": {
+    "path": "images/favicon.ico",
+    "type": "image/x-icon",
+    "size": 15086,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/site.webmanifest": {
+    "path": "other/site.webmanifest",
+    "type": "application/manifest+json",
+    "size": 580,
+    "kind": "other",
+    "external": false
+  },
+  "https://indigo-laboratory.it/og-image.jpg": {
+    "path": "images/og-image.jpg",
+    "type": "image/jpeg",
+    "size": 87077,
+    "kind": "images",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/6TYzzGbH1P4LX1TX8F9DZs0JiSVEPU1Y3mDo-N2X2Fs-XsMXLv40TsxocSg9PhWhwl73ttfC9pyEOp42_jIevR8.woff2": {
+    "path": "fonts/_fonts/6TYzzGbH1P4LX1TX8F9DZs0JiSVEPU1Y3mDo-N2X2Fs-XsMXLv40TsxocSg9PhWhwl73ttfC9pyEOp42_jIevR8.woff2",
+    "type": "font/woff2",
+    "size": 1724,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/TOzhW_Z-d32Q28U0fCoRN8sDKD4TqYT8MMN2pmiCOUg-O8I7jZlK_QNQfLUHn_SxnJUfA42UFSE8T7rop3gyg9k.woff2": {
+    "path": "fonts/_fonts/TOzhW_Z-d32Q28U0fCoRN8sDKD4TqYT8MMN2pmiCOUg-O8I7jZlK_QNQfLUHn_SxnJUfA42UFSE8T7rop3gyg9k.woff2",
+    "type": "font/woff2",
+    "size": 9828,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/wc139k9U2U_1gqX9sEM12oLcrbWvJFgTov6iaIXHmBQ-lMI_PJ7An5GrP4SY_IVftSRNIkZzt9wiYQeWQWkDZeA.woff2": {
+    "path": "fonts/_fonts/wc139k9U2U_1gqX9sEM12oLcrbWvJFgTov6iaIXHmBQ-lMI_PJ7An5GrP4SY_IVftSRNIkZzt9wiYQeWQWkDZeA.woff2",
+    "type": "font/woff2",
+    "size": 20288,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/ZdnaAqOFvXLEiWvK-fMDbgsMgyamS2o90Lxg-Yz4Eho-Qtk5GOrHJ50RFPdLgSmf8ZZPcyfO6JXxPPEL_GTDqUI.woff2": {
+    "path": "fonts/_fonts/ZdnaAqOFvXLEiWvK-fMDbgsMgyamS2o90Lxg-Yz4Eho-Qtk5GOrHJ50RFPdLgSmf8ZZPcyfO6JXxPPEL_GTDqUI.woff2",
+    "type": "font/woff2",
+    "size": 35684,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/rNzQXxIGf8TWbGcmAAX1xcJUa32rphvk0XcLeBh_nMs-CoDscETdgHrVzpW8jiQQ2pNTfO0o4OWAlGDd6ciHSqU.woff2": {
+    "path": "fonts/_fonts/rNzQXxIGf8TWbGcmAAX1xcJUa32rphvk0XcLeBh_nMs-CoDscETdgHrVzpW8jiQQ2pNTfO0o4OWAlGDd6ciHSqU.woff2",
+    "type": "font/woff2",
+    "size": 1644,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/0ngHZ9gmuON7Z5IIaxDDMu7ii9TGxmiW_DNww1whqYs-zkNEXO8DgXyttxvt3wEDS3sHxtt2tNV07rzE_SzeK4s.woff2": {
+    "path": "fonts/_fonts/0ngHZ9gmuON7Z5IIaxDDMu7ii9TGxmiW_DNww1whqYs-zkNEXO8DgXyttxvt3wEDS3sHxtt2tNV07rzE_SzeK4s.woff2",
+    "type": "font/woff2",
+    "size": 9364,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/FP9sjd8redz6z5zOCkO-aBMeuUxZ0wOkM8uYgyYFOXk-UkWbQLRZExA5IMsNYsnl069j0HI2L9hf0Fg_bFTzbLI.woff2": {
+    "path": "fonts/_fonts/FP9sjd8redz6z5zOCkO-aBMeuUxZ0wOkM8uYgyYFOXk-UkWbQLRZExA5IMsNYsnl069j0HI2L9hf0Fg_bFTzbLI.woff2",
+    "type": "font/woff2",
+    "size": 19572,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/egvgceROIOmWiCXj8oL5UJ3ZqMe8Z-C6Nf5n1Y0X7Wc-ufTc4bPpCvTBq9_QPDpWfndbImkhHViclgb0JY2GsME.woff2": {
+    "path": "fonts/_fonts/egvgceROIOmWiCXj8oL5UJ3ZqMe8Z-C6Nf5n1Y0X7Wc-ufTc4bPpCvTBq9_QPDpWfndbImkhHViclgb0JY2GsME.woff2",
+    "type": "font/woff2",
+    "size": 34664,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/pyqI029QC6ALaRh2OxlZc6uA9vufpkFAX3w9lcyGQfA-o_NYCXvhJmQMjBS4yGS99XuzQws05R2fxU7oiCham_4.woff": {
+    "path": "fonts/_fonts/pyqI029QC6ALaRh2OxlZc6uA9vufpkFAX3w9lcyGQfA-o_NYCXvhJmQMjBS4yGS99XuzQws05R2fxU7oiCham_4.woff",
+    "type": "font/woff",
+    "size": 28528,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/QX_Wt9Ls4ZagQBNNPpv97r5JDKNo_-88ipzBdYOj2xs-GyCduPX_49LzPrD6Bmoo-jUA61cfrjIz8Pnui6J2WWQ.woff": {
+    "path": "fonts/_fonts/QX_Wt9Ls4ZagQBNNPpv97r5JDKNo_-88ipzBdYOj2xs-GyCduPX_49LzPrD6Bmoo-jUA61cfrjIz8Pnui6J2WWQ.woff",
+    "type": "font/woff",
+    "size": 29116,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/7SInbAnAv96F20lzxx6XfZAw_-T2HBvChXpV1QgTjcQ-Yx7m_n-xVl7BRKZLE9yLA-EJStXfSmZXTuXKbXHwKLs.woff": {
+    "path": "fonts/_fonts/7SInbAnAv96F20lzxx6XfZAw_-T2HBvChXpV1QgTjcQ-Yx7m_n-xVl7BRKZLE9yLA-EJStXfSmZXTuXKbXHwKLs.woff",
+    "type": "font/woff",
+    "size": 29144,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/k5xZp8nPa0dW3MNXUgueN4zfvd_SPIfssiZIgxHBpmM-Bs9Jh5WjaaL7bkXeEgX3NV1P5L0aYNtG7jIb1zfj4ug.woff2": {
+    "path": "fonts/_fonts/k5xZp8nPa0dW3MNXUgueN4zfvd_SPIfssiZIgxHBpmM-Bs9Jh5WjaaL7bkXeEgX3NV1P5L0aYNtG7jIb1zfj4ug.woff2",
+    "type": "font/woff2",
+    "size": 2272,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/zD7zldwgH_PsLm2LVtRnEKp-0N35fEkawVnWJuFzeXE-Ez1QzIFVEF7mlvKQrsCKhnJHRen3jbEg06KOe_FvPGk.woff2": {
+    "path": "fonts/_fonts/zD7zldwgH_PsLm2LVtRnEKp-0N35fEkawVnWJuFzeXE-Ez1QzIFVEF7mlvKQrsCKhnJHRen3jbEg06KOe_FvPGk.woff2",
+    "type": "font/woff2",
+    "size": 3300,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/NIRBy1t2xwwIP8KEtXqO0LMIpdtRtR22MrJzc3u5qBM-kOH0Js75uQjfC57ibT001_lHWTcQ8nBADz2dY6zmQY4.woff2": {
+    "path": "fonts/_fonts/NIRBy1t2xwwIP8KEtXqO0LMIpdtRtR22MrJzc3u5qBM-kOH0Js75uQjfC57ibT001_lHWTcQ8nBADz2dY6zmQY4.woff2",
+    "type": "font/woff2",
+    "size": 1980,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/jcjZsO4t6EaoTjPXV-jJoCvQd4MNj9AEblWvNJ8p6JI-s6M6RdmMViMaMWu_rJ4jETpxCnJ2m1lxP0Rn5AxP65M.woff2": {
+    "path": "fonts/_fonts/jcjZsO4t6EaoTjPXV-jJoCvQd4MNj9AEblWvNJ8p6JI-s6M6RdmMViMaMWu_rJ4jETpxCnJ2m1lxP0Rn5AxP65M.woff2",
+    "type": "font/woff2",
+    "size": 2384,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/USS3E1PLluiBoA7l1niLhc1_DtJEIfAMCgztVLDwiM4-XiUcU2C_kuMM7X7eDhSBcrAVTJZ-pWDIPMTLgCOsqok.woff2": {
+    "path": "fonts/_fonts/USS3E1PLluiBoA7l1niLhc1_DtJEIfAMCgztVLDwiM4-XiUcU2C_kuMM7X7eDhSBcrAVTJZ-pWDIPMTLgCOsqok.woff2",
+    "type": "font/woff2",
+    "size": 1928,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/S_wSwy8knxeIUDTLivOsOxYe2Y5QN6B3vcg1gi7wJNo-0bBTCfjNoBu85yGYolXaMi_cMEgwhf0r-TOb79CeWh8.woff2": {
+    "path": "fonts/_fonts/S_wSwy8knxeIUDTLivOsOxYe2Y5QN6B3vcg1gi7wJNo-0bBTCfjNoBu85yGYolXaMi_cMEgwhf0r-TOb79CeWh8.woff2",
+    "type": "font/woff2",
+    "size": 2112,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/xzWjyfQdVOJ-RlKguFcVflRe8WbHy_q9uq2MUzDrMBU-IQlT5G5WeGG0opvlDk6qlD05jBbZbRQLHU6bz7RvN6k.woff2": {
+    "path": "fonts/_fonts/xzWjyfQdVOJ-RlKguFcVflRe8WbHy_q9uq2MUzDrMBU-IQlT5G5WeGG0opvlDk6qlD05jBbZbRQLHU6bz7RvN6k.woff2",
+    "type": "font/woff2",
+    "size": 2276,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/Qd_RqCzlNMCEzG842JJojAv3KJ4hWaNrI3T6bmK7tuQ-cbOCfpiHssNvR4Lbsogp3XcLl9KwZ7K3hADOeIh0ogI.woff2": {
+    "path": "fonts/_fonts/Qd_RqCzlNMCEzG842JJojAv3KJ4hWaNrI3T6bmK7tuQ-cbOCfpiHssNvR4Lbsogp3XcLl9KwZ7K3hADOeIh0ogI.woff2",
+    "type": "font/woff2",
+    "size": 2268,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/9tUlNujxxuyb9_3owWjwxX-pGdSn3p8K0BUTx129kFg-qkMp1Pdpow_FHNLFevc1UfSdVDRwsy2HKBf6gCOlkKw.woff2": {
+    "path": "fonts/_fonts/9tUlNujxxuyb9_3owWjwxX-pGdSn3p8K0BUTx129kFg-qkMp1Pdpow_FHNLFevc1UfSdVDRwsy2HKBf6gCOlkKw.woff2",
+    "type": "font/woff2",
+    "size": 1952,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/ChDQLfLLN9Uhly62k39Ne6DviXAC11KsNdnsAIysjXE-O6DQ9JgblEqi1H_oZhaMB9w9CqYOq9M9jhe7yNO3KZ0.woff2": {
+    "path": "fonts/_fonts/ChDQLfLLN9Uhly62k39Ne6DviXAC11KsNdnsAIysjXE-O6DQ9JgblEqi1H_oZhaMB9w9CqYOq9M9jhe7yNO3KZ0.woff2",
+    "type": "font/woff2",
+    "size": 2200,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/yGYHP8s9FNiAth0b1W8CySCNmxglejv58DWzHxxCG8Y-UbHjBlAeH77fovcvYeit4OPUo5JGCId89pw8xkeR8Zs.woff2": {
+    "path": "fonts/_fonts/yGYHP8s9FNiAth0b1W8CySCNmxglejv58DWzHxxCG8Y-UbHjBlAeH77fovcvYeit4OPUo5JGCId89pw8xkeR8Zs.woff2",
+    "type": "font/woff2",
+    "size": 2324,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/pgxxofd_yXXQJRC1gX8R_iGNX6Kf87ShNw1klpMvnfg-4WMCfIEftDzGZe5WOK0HEiafLB0IHgbdlcQQaboQO_g.woff2": {
+    "path": "fonts/_fonts/pgxxofd_yXXQJRC1gX8R_iGNX6Kf87ShNw1klpMvnfg-4WMCfIEftDzGZe5WOK0HEiafLB0IHgbdlcQQaboQO_g.woff2",
+    "type": "font/woff2",
+    "size": 2608,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/ao2_y3Qi1SbWc7o_6-LWu0jZOkFTal_iIBSHEizzX60-b63BzqxkLMjA_5kIe9mp8x8in5e23u0FK1naeIWWoX0.woff2": {
+    "path": "fonts/_fonts/ao2_y3Qi1SbWc7o_6-LWu0jZOkFTal_iIBSHEizzX60-b63BzqxkLMjA_5kIe9mp8x8in5e23u0FK1naeIWWoX0.woff2",
+    "type": "font/woff2",
+    "size": 2052,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/3Wtt4mRq8xXPc2W4gTQ4emnozsfnXDUCkHZmG6Mdbas-0o2mxaXFv1vzQlRuSOyXABQ55uCQ2yjBWGx8plUCsdI.woff2": {
+    "path": "fonts/_fonts/3Wtt4mRq8xXPc2W4gTQ4emnozsfnXDUCkHZmG6Mdbas-0o2mxaXFv1vzQlRuSOyXABQ55uCQ2yjBWGx8plUCsdI.woff2",
+    "type": "font/woff2",
+    "size": 2696,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/O9rOevn1NNpjVS_cFmWgbYuxYxCdq_hccWCIif7FZuc-Zm2bGU2jwBHkIW982bbjeFafNlEgFq05wiT5pCAfY_k.woff2": {
+    "path": "fonts/_fonts/O9rOevn1NNpjVS_cFmWgbYuxYxCdq_hccWCIif7FZuc-Zm2bGU2jwBHkIW982bbjeFafNlEgFq05wiT5pCAfY_k.woff2",
+    "type": "font/woff2",
+    "size": 2472,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/Y2qg4jy-NfIAj3pO94BhU5A3EU17n0S80fYdJN0BNh8-sPWsRWWrIVVgfmtrX3bcZ3baGDoCjKxm0H3wc0srhZ0.woff2": {
+    "path": "fonts/_fonts/Y2qg4jy-NfIAj3pO94BhU5A3EU17n0S80fYdJN0BNh8-sPWsRWWrIVVgfmtrX3bcZ3baGDoCjKxm0H3wc0srhZ0.woff2",
+    "type": "font/woff2",
+    "size": 2136,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/3ohAu_31eOvfRJxzX5f-ghzay6l4UKVP4XqIKphZhHE-T_tsSYQQJO7QivGIK03acvH42oFUwImdwyLyLfyC4PI.woff2": {
+    "path": "fonts/_fonts/3ohAu_31eOvfRJxzX5f-ghzay6l4UKVP4XqIKphZhHE-T_tsSYQQJO7QivGIK03acvH42oFUwImdwyLyLfyC4PI.woff2",
+    "type": "font/woff2",
+    "size": 2492,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/InL11T0efEGHPyyeBVYB05qOX2THH-M18MPOzGwJC-4-l4gFClmWdSRfXG_kWpf0PAJr0UBzziaNlekQNEamxXk.woff2": {
+    "path": "fonts/_fonts/InL11T0efEGHPyyeBVYB05qOX2THH-M18MPOzGwJC-4-l4gFClmWdSRfXG_kWpf0PAJr0UBzziaNlekQNEamxXk.woff2",
+    "type": "font/woff2",
+    "size": 2324,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/uXAzAhy_ARf_kV6vgrCiZeOn2l7XRR80co771x4ukio-w0Cce3fW_XFHWsUZuZNu_uhV5IAU-QQrkbtuUnYsIlk.woff2": {
+    "path": "fonts/_fonts/uXAzAhy_ARf_kV6vgrCiZeOn2l7XRR80co771x4ukio-w0Cce3fW_XFHWsUZuZNu_uhV5IAU-QQrkbtuUnYsIlk.woff2",
+    "type": "font/woff2",
+    "size": 2372,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/n8r0VqBXg01suLOAQMbrZQyLfpru9yV11J0rdqcarrI-rUUBET3nEZvzBwV_N7GjMIrqPedy_BXwDt2lINlO1mM.woff2": {
+    "path": "fonts/_fonts/n8r0VqBXg01suLOAQMbrZQyLfpru9yV11J0rdqcarrI-rUUBET3nEZvzBwV_N7GjMIrqPedy_BXwDt2lINlO1mM.woff2",
+    "type": "font/woff2",
+    "size": 2168,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/x3mPrm6yiuvWlmIgukFPuru3ORypHc3F1x3ckyOvDJg-suOxBuxblFGotqjFQ0FYM5oyUV974Dk4JuLPmiaOydU.woff2": {
+    "path": "fonts/_fonts/x3mPrm6yiuvWlmIgukFPuru3ORypHc3F1x3ckyOvDJg-suOxBuxblFGotqjFQ0FYM5oyUV974Dk4JuLPmiaOydU.woff2",
+    "type": "font/woff2",
+    "size": 2424,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/5AH4ZW8KyHNzyNSKJJyS7FV--K0vsvHNJEvtKy_UA_c-KAb_xOdzATULFJ6WOJ6IzE5dX6KhqsZ1Tnugl7bv1v4.woff2": {
+    "path": "fonts/_fonts/5AH4ZW8KyHNzyNSKJJyS7FV--K0vsvHNJEvtKy_UA_c-KAb_xOdzATULFJ6WOJ6IzE5dX6KhqsZ1Tnugl7bv1v4.woff2",
+    "type": "font/woff2",
+    "size": 22472,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/3V1i-jsv1bEm7azIta2N4gMV2ryCv-YHaKpMMTl3wf4-XQFUHQI6_3dUJiYmFIaW2jDV6fwu_OSg8cQX5_eRLFw.woff2": {
+    "path": "fonts/_fonts/3V1i-jsv1bEm7azIta2N4gMV2ryCv-YHaKpMMTl3wf4-XQFUHQI6_3dUJiYmFIaW2jDV6fwu_OSg8cQX5_eRLFw.woff2",
+    "type": "font/woff2",
+    "size": 35880,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/jZ3RfJO37iENFwhJ2fO0pdQmE48gihdfFFVXIiuP8j4-eG5MlgfMk2oz68m7hBaDvixuKqqfVimtZlnX3avZfog.woff2": {
+    "path": "fonts/_fonts/jZ3RfJO37iENFwhJ2fO0pdQmE48gihdfFFVXIiuP8j4-eG5MlgfMk2oz68m7hBaDvixuKqqfVimtZlnX3avZfog.woff2",
+    "type": "font/woff2",
+    "size": 27128,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/uqOUEfp6GyasEjSs6mPL4xH4Ogfg9dejwyGqFvieEhQ-1DC4lhOKAtHn_hSVO1eAmsDfxgXpJii8eq16JZynm5s.woff2": {
+    "path": "fonts/_fonts/uqOUEfp6GyasEjSs6mPL4xH4Ogfg9dejwyGqFvieEhQ-1DC4lhOKAtHn_hSVO1eAmsDfxgXpJii8eq16JZynm5s.woff2",
+    "type": "font/woff2",
+    "size": 4348,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/vkmZkh-CHOvBXhWqyxI7y7yhtJnjEZhooZMtIOrKbdc-2IAHU0readmKJy05HSHAUr9ZfblPKy1cYnIzD6FaafQ.woff2": {
+    "path": "fonts/_fonts/vkmZkh-CHOvBXhWqyxI7y7yhtJnjEZhooZMtIOrKbdc-2IAHU0readmKJy05HSHAUr9ZfblPKy1cYnIzD6FaafQ.woff2",
+    "type": "font/woff2",
+    "size": 5476,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/P20rFYUuJYBG6P413-kmy1MH2c5-AHidHeOkhurVW9E-s9pky6iiS9O9L4P9FGQnIeXl7IrK7HsqmKdubOA2j4w.woff2": {
+    "path": "fonts/_fonts/P20rFYUuJYBG6P413-kmy1MH2c5-AHidHeOkhurVW9E-s9pky6iiS9O9L4P9FGQnIeXl7IrK7HsqmKdubOA2j4w.woff2",
+    "type": "font/woff2",
+    "size": 4000,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/r2KASPa1NYEuoln4lN0W3EcSZ4QcjSeSmKvuJKUW_e0-EBXL59uF8lOU0BbZ0Qd0HKaqxnk9ahNM_OUahEvA2bA.woff2": {
+    "path": "fonts/_fonts/r2KASPa1NYEuoln4lN0W3EcSZ4QcjSeSmKvuJKUW_e0-EBXL59uF8lOU0BbZ0Qd0HKaqxnk9ahNM_OUahEvA2bA.woff2",
+    "type": "font/woff2",
+    "size": 8860,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/_fonts/oA7rp6XLB_UIP_utZxXIDlSPcMeVLGKMaeey_kAD0fo-98JsXCHs_mcC6olFARmc-2GM9H4YyxJhTUClXLaqEOU.woff2": {
+    "path": "fonts/_fonts/oA7rp6XLB_UIP_utZxXIDlSPcMeVLGKMaeey_kAD0fo-98JsXCHs_mcC6olFARmc-2GM9H4YyxJhTUClXLaqEOU.woff2",
+    "type": "font/woff2",
+    "size": 10052,
+    "kind": "fonts",
+    "external": false
+  },
+  "https://indigo-laboratory.it/pages/homepage/hero/hero-background-mobile-poster.jpg": {
+    "path": "images/pages/homepage/hero/hero-background-mobile-poster.jpg",
+    "type": "image/jpeg",
+    "size": 10096,
+    "kind": "images",
+    "external": false
+  }
+}

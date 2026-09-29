@@ -1,0 +1,12 @@
+[15:59:43] browser: chrome
+[15:59:44] sitemap /sitemap.xml: +0 urls
+[15:59:44] PAGE 1: https://indigo-laboratory.it/
+[15:59:45]   [desktop 1440px] loading
+[16:00:22]   [desktop] stitched screenshot
+[16:01:23]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=195
+[16:02:53]   [tablet 834px] loading
+[16:03:52]   [tablet] stitched screenshot
+[16:05:43]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=160
+[16:06:40]   [mobile 390px] loading
+[16:07:18]   [mobile] stitched screenshot
+[16:08:16]   animations: gsap=False scrollTriggers=0 smoothScrollKilled=False revealed=160

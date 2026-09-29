@@ -1,0 +1,3858 @@
+{
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "#MainContent",
+      "abs": "https://bhavyaramesh.com/collections/jalebi#MainContent",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Our stores",
+      "href": "/pages/retail-store",
+      "abs": "https://bhavyaramesh.com/pages/retail-store",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stores",
+      "href": "/pages/retail-store",
+      "abs": "https://bhavyaramesh.com/pages/retail-store",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Journal",
+      "href": "/blogs/journal",
+      "abs": "https://bhavyaramesh.com/blogs/journal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "About",
+      "href": "/pages/about-us",
+      "abs": "https://bhavyaramesh.com/pages/about-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wishlist",
+      "href": "/pages/swym-wishlist",
+      "abs": "https://bhavyaramesh.com/pages/swym-wishlist",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "OUR STORES →",
+      "href": "/pages/retail-store",
+      "abs": "https://bhavyaramesh.com/pages/retail-store",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://bhavyaramesh.com/",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "View cart",
+      "href": "/cart",
+      "abs": "https://bhavyaramesh.com/cart",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "SHOP ALL",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "NEW IN",
+      "href": "/collections/new-in",
+      "abs": "https://bhavyaramesh.com/collections/new-in",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "SUNGLASSES",
+      "href": "/collections/sunglasses",
+      "abs": "https://bhavyaramesh.com/collections/sunglasses",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all sunglasses",
+      "href": "/collections/sunglasses",
+      "abs": "https://bhavyaramesh.com/collections/sunglasses",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "SunglassesShop the range",
+      "href": "/collections/sunglasses",
+      "abs": "https://bhavyaramesh.com/collections/sunglasses",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "EARRINGS",
+      "href": "/collections/earrings",
+      "abs": "https://bhavyaramesh.com/collections/earrings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all earrings",
+      "href": "/collections/earrings",
+      "abs": "https://bhavyaramesh.com/collections/earrings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Ear Clips",
+      "href": "/collections/ear-clips",
+      "abs": "https://bhavyaramesh.com/collections/ear-clips",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Earrings",
+      "href": "/collections/mens-earrings",
+      "abs": "https://bhavyaramesh.com/collections/mens-earrings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "EarringsShop the range",
+      "href": "/collections/earrings",
+      "abs": "https://bhavyaramesh.com/collections/earrings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "NAIL RINGS",
+      "href": "/collections/nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all nail rings",
+      "href": "/collections/nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Statement Nail Ring",
+      "href": "/collections/statement-nail-ring",
+      "abs": "https://bhavyaramesh.com/collections/statement-nail-ring",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Ghungroo Nail Rings",
+      "href": "/collections/ghungroo-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/ghungroo-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Plain Nail Rings",
+      "href": "/collections/plain-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/plain-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Pearl Nail Rings",
+      "href": "/collections/pearl-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/pearl-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Ruby Nail Rings",
+      "href": "/collections/ruby-nail-ring",
+      "abs": "https://bhavyaramesh.com/collections/ruby-nail-ring",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Turquoise Nail Rings",
+      "href": "/collections/turquoise-nail-ring",
+      "abs": "https://bhavyaramesh.com/collections/turquoise-nail-ring",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Floral Nail Rings",
+      "href": "/collections/floral-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/floral-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Onyx Nail Rings",
+      "href": "/collections/onyx-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/onyx-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Segmented Nail Rings",
+      "href": "/collections/segmented-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/segmented-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bhavya x Rosh - Nail Rings",
+      "href": "/collections/bhavya-x-rosh-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/bhavya-x-rosh-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail RingsShop the range",
+      "href": "/collections/nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "NECKPIECES",
+      "href": "/collections/neckpieces",
+      "abs": "https://bhavyaramesh.com/collections/neckpieces",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all neckpieces",
+      "href": "/collections/neckpieces",
+      "abs": "https://bhavyaramesh.com/collections/neckpieces",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Chains & Chokers",
+      "href": "/collections/mens-chains",
+      "abs": "https://bhavyaramesh.com/collections/mens-chains",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Brooches",
+      "href": "/collections/brooches",
+      "abs": "https://bhavyaramesh.com/collections/brooches",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "NeckPiecesShop the range",
+      "href": "/collections/neckpieces",
+      "abs": "https://bhavyaramesh.com/collections/neckpieces",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "RINGS",
+      "href": "/collections/rings",
+      "abs": "https://bhavyaramesh.com/collections/rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all rings",
+      "href": "/collections/rings",
+      "abs": "https://bhavyaramesh.com/collections/rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Rings",
+      "href": "/collections/mens-rings",
+      "abs": "https://bhavyaramesh.com/collections/mens-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "RingsShop the range",
+      "href": "/collections/rings",
+      "abs": "https://bhavyaramesh.com/collections/rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "WRIST WEAR",
+      "href": "/collections/wrist-wear",
+      "abs": "https://bhavyaramesh.com/collections/wrist-wear",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all wrist wear",
+      "href": "/collections/wrist-wear",
+      "abs": "https://bhavyaramesh.com/collections/wrist-wear",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bracelet",
+      "href": "/collections/bracelet",
+      "abs": "https://bhavyaramesh.com/collections/bracelet",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bangle",
+      "href": "/collections/bangle",
+      "abs": "https://bhavyaramesh.com/collections/bangle",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Palm Cuffs",
+      "href": "/collections/palm-cuffs",
+      "abs": "https://bhavyaramesh.com/collections/palm-cuffs",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Bracelets & Kada",
+      "href": "/collections/mens-bracelets",
+      "abs": "https://bhavyaramesh.com/collections/mens-bracelets",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Cufflinks",
+      "href": "/collections/cufflink",
+      "abs": "https://bhavyaramesh.com/collections/cufflink",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wrist WearShop the range",
+      "href": "/collections/wrist-wear",
+      "abs": "https://bhavyaramesh.com/collections/wrist-wear",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "MEN'S",
+      "href": "/collections/mens-jewellery",
+      "abs": "https://bhavyaramesh.com/collections/mens-jewellery",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All men's jewellery",
+      "href": "/collections/mens-jewellery",
+      "abs": "https://bhavyaramesh.com/collections/mens-jewellery",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Rings",
+      "href": "/collections/mens-rings",
+      "abs": "https://bhavyaramesh.com/collections/mens-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Earrings",
+      "href": "/collections/mens-earrings",
+      "abs": "https://bhavyaramesh.com/collections/mens-earrings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Chains & Chokers",
+      "href": "/collections/mens-chains",
+      "abs": "https://bhavyaramesh.com/collections/mens-chains",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's Bracelets & Kada",
+      "href": "/collections/mens-bracelets",
+      "abs": "https://bhavyaramesh.com/collections/mens-bracelets",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bridal & Haldi",
+      "href": "/collections/all-products/occasion-bridal",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wedding",
+      "href": "/collections/all-products/occasion-wedding",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Festive",
+      "href": "/collections/all-products/occasion-festive",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Everyday",
+      "href": "/collections/all-products/occasion-everyday",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Party",
+      "href": "/collections/all-products/occasion-party",
+      "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's JewelleryShop the range",
+      "href": "/collections/mens-jewellery",
+      "abs": "https://bhavyaramesh.com/collections/mens-jewellery",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "MORE",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Shop all jewellery",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Ear Clips",
+      "href": "/collections/ear-clips",
+      "abs": "https://bhavyaramesh.com/collections/ear-clips",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Palm Cuffs",
+      "href": "/collections/palm-cuffs",
+      "abs": "https://bhavyaramesh.com/collections/palm-cuffs",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Hair Accessories",
+      "href": "/collections/hair-accessories",
+      "abs": "https://bhavyaramesh.com/collections/hair-accessories",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nose Pins",
+      "href": "/collections/nose-pins",
+      "abs": "https://bhavyaramesh.com/collections/nose-pins",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bracelets",
+      "href": "/collections/bracelet",
+      "abs": "https://bhavyaramesh.com/collections/bracelet",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bangles",
+      "href": "/collections/bangle",
+      "abs": "https://bhavyaramesh.com/collections/bangle",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Anklets",
+      "href": "/collections/anklets-1",
+      "abs": "https://bhavyaramesh.com/collections/anklets-1",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Brooches",
+      "href": "/collections/brooches",
+      "abs": "https://bhavyaramesh.com/collections/brooches",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Cufflink",
+      "href": "/collections/cufflink",
+      "abs": "https://bhavyaramesh.com/collections/cufflink",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bags",
+      "href": "/collections/bags",
+      "abs": "https://bhavyaramesh.com/collections/bags",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All ProductsShop the range",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "StareNew collection",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "",
+      "href": "/",
+      "abs": "https://bhavyaramesh.com/",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "SHOP ALL",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "NEW IN",
+      "href": "/collections/new-in",
+      "abs": "https://bhavyaramesh.com/collections/new-in",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "SUNGLASSES",
+      "href": "/collections/sunglasses",
+      "abs": "https://bhavyaramesh.com/collections/sunglasses",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "EARRINGS",
+      "href": "/collections/earrings",
+      "abs": "https://bhavyaramesh.com/collections/earrings",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "NAIL RINGS",
+      "href": "/collections/nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/nail-rings",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "NECKPIECES",
+      "href": "/collections/neckpieces",
+      "abs": "https://bhavyaramesh.com/collections/neckpieces",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "RINGS",
+      "href": "/collections/rings",
+      "abs": "https://bhavyaramesh.com/collections/rings",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "WRIST WEAR",
+      "href": "/collections/wrist-wear",
+      "abs": "https://bhavyaramesh.com/collections/wrist-wear",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "MEN'S",
+      "href": "/collections/mens-jewellery",
+      "abs": "https://bhavyaramesh.com/collections/mens-jewellery",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "MORE",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Cart",
+      "href": "/cart",
+      "abs": "https://bhavyaramesh.com/cart",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "JUST LANDED New in",
+      "href": "/collections/new-in",
+      "abs": "https://bhavyaramesh.com/collections/new-in",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "THE COLLECTION Stare",
+      "href": "/collections/stare",
+      "abs": "https://bhavyaramesh.com/collections/stare",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Crown",
+      "href": "/collections/nail-crown",
+      "abs": "https://bhavyaramesh.com/collections/nail-crown",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Jalebi",
+      "href": "/collections/jalebi",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Harmony",
+      "href": "/collections/harmony",
+      "abs": "https://bhavyaramesh.com/collections/harmony",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Glarekillers",
+      "href": "/collections/glarekillers",
+      "abs": "https://bhavyaramesh.com/collections/glarekillers",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "GilGa",
+      "href": "/collections/gilga",
+      "abs": "https://bhavyaramesh.com/collections/gilga",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Naraka",
+      "href": "/collections/naraka",
+      "abs": "https://bhavyaramesh.com/collections/naraka",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Ancient Aliens",
+      "href": "/collections/ancient-aliens",
+      "abs": "https://bhavyaramesh.com/collections/ancient-aliens",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Poison",
+      "href": "/collections/poison",
+      "abs": "https://bhavyaramesh.com/collections/poison",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Pankh",
+      "href": "/collections/pankh",
+      "abs": "https://bhavyaramesh.com/collections/pankh",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Darlings",
+      "href": "/collections/darlings",
+      "abs": "https://bhavyaramesh.com/collections/darlings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bhavya x Rosh - Nail Rings",
+      "href": "/collections/bhavya-x-rosh-nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/bhavya-x-rosh-nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All collections",
+      "href": "/collections",
+      "abs": "https://bhavyaramesh.com/collections",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Sunglasses",
+      "href": "/collections/sunglasses",
+      "abs": "https://bhavyaramesh.com/collections/sunglasses",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Earrings",
+      "href": "/collections/earrings",
+      "abs": "https://bhavyaramesh.com/collections/earrings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nail Rings",
+      "href": "/collections/nail-rings",
+      "abs": "https://bhavyaramesh.com/collections/nail-rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "NeckPieces",
+      "href": "/collections/neckpieces",
+      "abs": "https://bhavyaramesh.com/collections/neckpieces",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Rings",
+      "href": "/collections/rings",
+      "abs": "https://bhavyaramesh.com/collections/rings",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wrist Wear",
+      "href": "/collections/wrist-wear",
+      "abs": "https://bhavyaramesh.com/collections/wrist-wear",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Men's",
+      "href": "/collections/mens-jewellery",
+      "abs": "https://bhavyaramesh.com/collections/mens-jewellery",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Ear Clips",
+      "href": "/collections/ear-clips",
+      "abs": "https://bhavyaramesh.com/collections/ear-clips",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Palm Cuffs",
+      "href": "/collections/palm-cuffs",
+      "abs": "https://bhavyaramesh.com/collections/palm-cuffs",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Hair Accessories",
+      "href": "/collections/hair-accessories",
+      "abs": "https://bhavyaramesh.com/collections/hair-accessories",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Nose Pins",
+      "href": "/collections/nose-pins",
+      "abs": "https://bhavyaramesh.com/collections/nose-pins",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bracelets",
+      "href": "/collections/bracelet",
+      "abs": "https://bhavyaramesh.com/collections/bracelet",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bangles",
+      "href": "/collections/bangle",
+      "abs": "https://bhavyaramesh.com/collections/bangle",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Anklets",
+      "href": "/collections/anklets-1",
+      "abs": "https://bhavyaramesh.com/collections/anklets-1",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Brooches",
+      "href": "/collections/brooches",
+      "abs": "https://bhavyaramesh.com/collections/brooches",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Cufflink",
+      "href": "/collections/cufflink",
+      "abs": "https://bhavyaramesh.com/collections/cufflink",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Bags",
+      "href": "/collections/bags",
+      "abs": "https://bhavyaramesh.com/collections/bags",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "All jewellery",
+      "href": "/collections/all-products",
+      "abs": "https://bhavyaramesh.com/collections/all-products",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Our stores",
+      "href": "/pages/retail-store",
+      "abs": "https://bhavyaramesh.com/pages/retail-store",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "JOURNAL",
+      "href": "/blogs/journal",
+      "abs": "https://bhavyaramesh.com/blogs/journal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "ABOUT",
+      "href": "/pages/about-us",
+      "abs": "https://bhavyaramesh.com/pages/about-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "Wishlist",
+      "href": "/pages/swym-wishlist",
+      "abs": "https://bhavyaramesh.com/pages/swym-wishlist",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "LOG IN",
+      "href": "/account/login",
+      "abs": "https://bhavyaramesh.com/account/login",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "CREATE ACCOUNT",
+      "href": "/account/register",
+      "abs": "https://bhavyaramesh.com/account/register",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "SEARCH",
+      "href": "/search",
+      "abs": "https://bhavyaramesh.com/search",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "JEWELLERY CARE AND MATERIAL",
+      "href": "/pages/jewellery-care",
+      "abs": "https://bhavyaramesh.com/pages/jewellery-care",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "SHIPPING POLICY",
+      "href": "/pages/shipping-info",
+      "abs": "https://bhavyaramesh.com/pages/shipping-info",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "RETURNS & EXCHANGE POLICY",
+      "href": "/pages/returns-exchange",
+      "abs": "https://bhavyaramesh.com/pages/returns-exchange",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "CONTACT US",
+      "href": "/pages/contact-us",
+      "abs": "https://bhavyaramesh.com/pages/contact-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "STOCKISTS",
+      "href": "/pages/stockists",
+      "abs": "https://bhavyaramesh.com/pages/stockists",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "JOURNAL",
+      "href": "/blogs/journal",
+      "abs": "https://bhavyaramesh.com/blogs/journal",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "TERMS OF SERVICE",
+      "href": "/policies/terms-of-service",
+      "abs": "https://bhavyaramesh.com/policies/terms-of-service",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "href": "/policies/privacy-policy",
+      "abs": "https://bhavyaramesh.com/policies/privacy-policy",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "OUR STORES",
+      "href": "https://bhavyaramesh.com/pages/retail-store",
+      "abs": "https://bhavyaramesh.com/pages/retail-store",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "ABOUT",
+      "href": "/pages/about-us",
+      "abs": "https://bhavyaramesh.com/pages/about-us",
+      "inNav": true,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Laddoo Neckbulbs From Rs. 39,000 SILVER",
+      "href": "/products/laddoo-neckbulbs",
+      "abs": "https://bhavyaramesh.com/products/laddoo-neckbulbs",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Cham Cham From Rs. 18,000 SILVER",
+      "href": "/products/cham-cham",
+      "abs": "https://bhavyaramesh.com/products/cham-cham",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Shrikhand Ring From Rs. 10,900 SILVER",
+      "href": "/products/shrikhand-ring",
+      "abs": "https://bhavyaramesh.com/products/shrikhand-ring",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Jamoon Earclimbers From Rs. 14,900 SILVER",
+      "href": "/products/jamoon-earclimbers",
+      "abs": "https://bhavyaramesh.com/products/jamoon-earclimbers",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Falooda Bangle From Rs. 17,000 SILVER",
+      "href": "/products/falooda-bangle",
+      "abs": "https://bhavyaramesh.com/products/falooda-bangle",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Aamaras Hairdrips From Rs. 9,000 SILVER",
+      "href": "/products/aamaras-hairdrips",
+      "abs": "https://bhavyaramesh.com/products/aamaras-hairdrips",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Pink Gulaab Hair Buns From Rs. 31,000 SILVER",
+      "href": "/products/pink-gulaab-hair-buns",
+      "abs": "https://bhavyaramesh.com/products/pink-gulaab-hair-buns",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BESTSELLER ‹ › Falooda Necklet From Rs. 20,500 SILVER",
+      "href": "/products/falooda-necklet",
+      "abs": "https://bhavyaramesh.com/products/falooda-necklet",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Gulaab Hair Buns From Rs. 31,000 SILVER",
+      "href": "/products/gulaab-hair-buns",
+      "abs": "https://bhavyaramesh.com/products/gulaab-hair-buns",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Pongal Ring From Rs. 7,500 SILVER",
+      "href": "/products/pongal-ring",
+      "abs": "https://bhavyaramesh.com/products/pongal-ring",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Phirni Ear Spreads From Rs. 16,900 SILVER",
+      "href": "/products/phirni-ear-spreads",
+      "abs": "https://bhavyaramesh.com/products/phirni-ear-spreads",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "BESTSELLER ‹ › Malpua Hairclip From Rs. 11,900 SILVER",
+      "href": "/products/malpua-hairclip",
+      "abs": "https://bhavyaramesh.com/products/malpua-hairclip",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Kaju Katli From Rs. 20,500 SILVER",
+      "href": "/products/kaju-katli",
+      "abs": "https://bhavyaramesh.com/products/kaju-katli",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Rasmalai Long Neckdrips From Rs. 21,500 SILVER",
+      "href": "/products/rasmalai-long-neckdrips",
+      "abs": "https://bhavyaramesh.com/products/rasmalai-long-neckdrips",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Badusha Bangle From Rs. 18,000 SILVER",
+      "href": "/products/badusha-bangle",
+      "abs": "https://bhavyaramesh.com/products/badusha-bangle",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Peda Bangle From Rs. 8,500 SILVER",
+      "href": "/products/peda-bangle",
+      "abs": "https://bhavyaramesh.com/products/peda-bangle",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Ghevar Eardrips From Rs. 15,000 SILVER",
+      "href": "/products/ghevar-eardrips",
+      "abs": "https://bhavyaramesh.com/products/ghevar-eardrips",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "‹ › Rasgulla hoops From Rs. 13,900 SILVER",
+      "href": "/products/rasgulla-hoops",
+      "abs": "https://bhavyaramesh.com/products/rasgulla-hoops",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "2",
+      "href": "/collections/jalebi?page=2",
+      "abs": "https://bhavyaramesh.com/collections/jalebi?page=2",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Next",
+      "href": "/collections/jalebi?page=2",
+      "abs": "https://bhavyaramesh.com/collections/jalebi?page=2",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "MORE 18 / 23",
+      "href": "https://bhavyaramesh.com/collections/jalebi?page=2",
+      "abs": "https://bhavyaramesh.com/collections/jalebi?page=2",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "SEARCH",
+      "href": "/search",
+      "abs": "https://bhavyaramesh.com/search",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "JEWELLERY CARE AND MATERIAL",
+      "href": "/pages/jewellery-care",
+      "abs": "https://bhavyaramesh.com/pages/jewellery-care",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "SHIPPING POLICY",
+      "href": "/pages/shipping-info",
+      "abs": "https://bhavyaramesh.com/pages/shipping-info",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "RETURNS & EXCHANGE POLICY",
+      "href": "/pages/returns-exchange",
+      "abs": "https://bhavyaramesh.com/pages/returns-exchange",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "CONTACT US",
+      "href": "/pages/contact-us",
+      "abs": "https://bhavyaramesh.com/pages/contact-us",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "STOCKISTS",
+      "href": "/pages/stockists",
+      "abs": "https://bhavyaramesh.com/pages/stockists",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "JOURNAL",
+      "href": "/blogs/journal",
+      "abs": "https://bhavyaramesh.com/blogs/journal",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "TERMS OF SERVICE",
+      "href": "/policies/terms-of-service",
+      "abs": "https://bhavyaramesh.com/policies/terms-of-service",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "PRIVACY POLICY",
+      "href": "/policies/privacy-policy",
+      "abs": "https://bhavyaramesh.com/policies/privacy-policy",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "OUR STORES",
+      "href": "https://bhavyaramesh.com/pages/retail-store",
+      "abs": "https://bhavyaramesh.com/pages/retail-store",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "ABOUT",
+      "href": "/pages/about-us",
+      "abs": "https://bhavyaramesh.com/pages/about-us",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Facebook",
+      "href": "https://www.facebook.com/BhavyaRameshJewelry/",
+      "abs": "https://www.facebook.com/BhavyaRameshJewelry/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Instagram",
+      "href": "https://www.instagram.com/bhavyarameshjewelry/",
+      "abs": "https://www.instagram.com/bhavyarameshjewelry/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "Bhavya Ramesh",
+      "href": "/",
+      "abs": "https://bhavyaramesh.com/",
+      "inNav": false,
+      "inFooter": true
+    },
+    {
+      "text": "",
+      "href": "",
+      "abs": "https://bhavyaramesh.com/collections/jalebi",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "English​▼",
+      "href": "#",
+      "abs": "https://bhavyaramesh.com/collections/jalebi#",
+      "inNav": false,
+      "inFooter": false
+    },
+    {
+      "text": "Auto Translate Language • EA",
+      "href": "https://easyappsecom.com/?utm_source=auto-translate-watermark",
+      "abs": "https://easyappsecom.com/?utm_source=auto-translate-watermark",
+      "inNav": false,
+      "inFooter": false
+    }
+  ],
+  "nav": [
+    {
+      "tag": "header",
+      "id": null,
+      "cls": [
+        "site-header__wrapper"
+      ],
+      "items": [
+        {
+          "text": "Our stores",
+          "href": "/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "Stores",
+          "href": "/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "Journal",
+          "href": "/blogs/journal",
+          "abs": "https://bhavyaramesh.com/blogs/journal"
+        },
+        {
+          "text": "About",
+          "href": "/pages/about-us",
+          "abs": "https://bhavyaramesh.com/pages/about-us"
+        },
+        {
+          "text": "Wishlist",
+          "href": "/pages/swym-wishlist",
+          "abs": "https://bhavyaramesh.com/pages/swym-wishlist"
+        },
+        {
+          "text": "OUR STORES →",
+          "href": "/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "",
+          "href": "/",
+          "abs": "https://bhavyaramesh.com/"
+        },
+        {
+          "text": "View cart",
+          "href": "/cart",
+          "abs": "https://bhavyaramesh.com/cart"
+        },
+        {
+          "text": "SHOP ALL",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "NEW IN",
+          "href": "/collections/new-in",
+          "abs": "https://bhavyaramesh.com/collections/new-in"
+        },
+        {
+          "text": "SUNGLASSES",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "Shop all sunglasses",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "SunglassesShop the range",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "EARRINGS",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "Shop all earrings",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "Ear Clips",
+          "href": "/collections/ear-clips",
+          "abs": "https://bhavyaramesh.com/collections/ear-clips"
+        },
+        {
+          "text": "Men's Earrings",
+          "href": "/collections/mens-earrings",
+          "abs": "https://bhavyaramesh.com/collections/mens-earrings"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "EarringsShop the range",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "NAIL RINGS",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "Shop all nail rings",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "Statement Nail Ring",
+          "href": "/collections/statement-nail-ring",
+          "abs": "https://bhavyaramesh.com/collections/statement-nail-ring"
+        },
+        {
+          "text": "Ghungroo Nail Rings",
+          "href": "/collections/ghungroo-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/ghungroo-nail-rings"
+        },
+        {
+          "text": "Plain Nail Rings",
+          "href": "/collections/plain-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/plain-nail-rings"
+        },
+        {
+          "text": "Pearl Nail Rings",
+          "href": "/collections/pearl-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/pearl-nail-rings"
+        },
+        {
+          "text": "Ruby Nail Rings",
+          "href": "/collections/ruby-nail-ring",
+          "abs": "https://bhavyaramesh.com/collections/ruby-nail-ring"
+        },
+        {
+          "text": "Turquoise Nail Rings",
+          "href": "/collections/turquoise-nail-ring",
+          "abs": "https://bhavyaramesh.com/collections/turquoise-nail-ring"
+        },
+        {
+          "text": "Floral Nail Rings",
+          "href": "/collections/floral-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/floral-nail-rings"
+        },
+        {
+          "text": "Onyx Nail Rings",
+          "href": "/collections/onyx-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/onyx-nail-rings"
+        },
+        {
+          "text": "Segmented Nail Rings",
+          "href": "/collections/segmented-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/segmented-nail-rings"
+        },
+        {
+          "text": "Bhavya x Rosh - Nail Rings",
+          "href": "/collections/bhavya-x-rosh-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/bhavya-x-rosh-nail-rings"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "Nail RingsShop the range",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "NECKPIECES",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "Shop all neckpieces",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "Men's Chains & Chokers",
+          "href": "/collections/mens-chains",
+          "abs": "https://bhavyaramesh.com/collections/mens-chains"
+        },
+        {
+          "text": "Brooches",
+          "href": "/collections/brooches",
+          "abs": "https://bhavyaramesh.com/collections/brooches"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "NeckPiecesShop the range",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "RINGS",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "Shop all rings",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "Men's Rings",
+          "href": "/collections/mens-rings",
+          "abs": "https://bhavyaramesh.com/collections/mens-rings"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "RingsShop the range",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "WRIST WEAR",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "Shop all wrist wear",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "Bracelet",
+          "href": "/collections/bracelet",
+          "abs": "https://bhavyaramesh.com/collections/bracelet"
+        },
+        {
+          "text": "Bangle",
+          "href": "/collections/bangle",
+          "abs": "https://bhavyaramesh.com/collections/bangle"
+        },
+        {
+          "text": "Palm Cuffs",
+          "href": "/collections/palm-cuffs",
+          "abs": "https://bhavyaramesh.com/collections/palm-cuffs"
+        },
+        {
+          "text": "Men's Bracelets & Kada",
+          "href": "/collections/mens-bracelets",
+          "abs": "https://bhavyaramesh.com/collections/mens-bracelets"
+        },
+        {
+          "text": "Cufflinks",
+          "href": "/collections/cufflink",
+          "abs": "https://bhavyaramesh.com/collections/cufflink"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "Wrist WearShop the range",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "MEN'S",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "All men's jewellery",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "Men's Rings",
+          "href": "/collections/mens-rings",
+          "abs": "https://bhavyaramesh.com/collections/mens-rings"
+        },
+        {
+          "text": "Men's Earrings",
+          "href": "/collections/mens-earrings",
+          "abs": "https://bhavyaramesh.com/collections/mens-earrings"
+        },
+        {
+          "text": "Men's Chains & Chokers",
+          "href": "/collections/mens-chains",
+          "abs": "https://bhavyaramesh.com/collections/mens-chains"
+        },
+        {
+          "text": "Men's Bracelets & Kada",
+          "href": "/collections/mens-bracelets",
+          "abs": "https://bhavyaramesh.com/collections/mens-bracelets"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "Men's JewelleryShop the range",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "MORE",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "Shop all jewellery",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "Ear Clips",
+          "href": "/collections/ear-clips",
+          "abs": "https://bhavyaramesh.com/collections/ear-clips"
+        },
+        {
+          "text": "Palm Cuffs",
+          "href": "/collections/palm-cuffs",
+          "abs": "https://bhavyaramesh.com/collections/palm-cuffs"
+        },
+        {
+          "text": "Hair Accessories",
+          "href": "/collections/hair-accessories",
+          "abs": "https://bhavyaramesh.com/collections/hair-accessories"
+        },
+        {
+          "text": "Nose Pins",
+          "href": "/collections/nose-pins",
+          "abs": "https://bhavyaramesh.com/collections/nose-pins"
+        },
+        {
+          "text": "Bracelets",
+          "href": "/collections/bracelet",
+          "abs": "https://bhavyaramesh.com/collections/bracelet"
+        },
+        {
+          "text": "Bangles",
+          "href": "/collections/bangle",
+          "abs": "https://bhavyaramesh.com/collections/bangle"
+        },
+        {
+          "text": "Anklets",
+          "href": "/collections/anklets-1",
+          "abs": "https://bhavyaramesh.com/collections/anklets-1"
+        },
+        {
+          "text": "Brooches",
+          "href": "/collections/brooches",
+          "abs": "https://bhavyaramesh.com/collections/brooches"
+        },
+        {
+          "text": "Cufflink",
+          "href": "/collections/cufflink",
+          "abs": "https://bhavyaramesh.com/collections/cufflink"
+        },
+        {
+          "text": "Bags",
+          "href": "/collections/bags",
+          "abs": "https://bhavyaramesh.com/collections/bags"
+        },
+        {
+          "text": "All ProductsShop the range",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        }
+      ]
+    },
+    {
+      "tag": "nav",
+      "id": null,
+      "cls": [
+        "br-util__links"
+      ],
+      "items": [
+        {
+          "text": "Stores",
+          "href": "/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "Journal",
+          "href": "/blogs/journal",
+          "abs": "https://bhavyaramesh.com/blogs/journal"
+        },
+        {
+          "text": "About",
+          "href": "/pages/about-us",
+          "abs": "https://bhavyaramesh.com/pages/about-us"
+        },
+        {
+          "text": "Wishlist",
+          "href": "/pages/swym-wishlist",
+          "abs": "https://bhavyaramesh.com/pages/swym-wishlist"
+        }
+      ]
+    },
+    {
+      "tag": "nav",
+      "id": null,
+      "cls": [
+        "br-bar",
+        "notranslate"
+      ],
+      "items": [
+        {
+          "text": "SHOP ALL",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "NEW IN",
+          "href": "/collections/new-in",
+          "abs": "https://bhavyaramesh.com/collections/new-in"
+        },
+        {
+          "text": "SUNGLASSES",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "Shop all sunglasses",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "SunglassesShop the range",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "EARRINGS",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "Shop all earrings",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "Ear Clips",
+          "href": "/collections/ear-clips",
+          "abs": "https://bhavyaramesh.com/collections/ear-clips"
+        },
+        {
+          "text": "Men's Earrings",
+          "href": "/collections/mens-earrings",
+          "abs": "https://bhavyaramesh.com/collections/mens-earrings"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "EarringsShop the range",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "NAIL RINGS",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "Shop all nail rings",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "Statement Nail Ring",
+          "href": "/collections/statement-nail-ring",
+          "abs": "https://bhavyaramesh.com/collections/statement-nail-ring"
+        },
+        {
+          "text": "Ghungroo Nail Rings",
+          "href": "/collections/ghungroo-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/ghungroo-nail-rings"
+        },
+        {
+          "text": "Plain Nail Rings",
+          "href": "/collections/plain-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/plain-nail-rings"
+        },
+        {
+          "text": "Pearl Nail Rings",
+          "href": "/collections/pearl-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/pearl-nail-rings"
+        },
+        {
+          "text": "Ruby Nail Rings",
+          "href": "/collections/ruby-nail-ring",
+          "abs": "https://bhavyaramesh.com/collections/ruby-nail-ring"
+        },
+        {
+          "text": "Turquoise Nail Rings",
+          "href": "/collections/turquoise-nail-ring",
+          "abs": "https://bhavyaramesh.com/collections/turquoise-nail-ring"
+        },
+        {
+          "text": "Floral Nail Rings",
+          "href": "/collections/floral-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/floral-nail-rings"
+        },
+        {
+          "text": "Onyx Nail Rings",
+          "href": "/collections/onyx-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/onyx-nail-rings"
+        },
+        {
+          "text": "Segmented Nail Rings",
+          "href": "/collections/segmented-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/segmented-nail-rings"
+        },
+        {
+          "text": "Bhavya x Rosh - Nail Rings",
+          "href": "/collections/bhavya-x-rosh-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/bhavya-x-rosh-nail-rings"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "Nail RingsShop the range",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "NECKPIECES",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "Shop all neckpieces",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "Men's Chains & Chokers",
+          "href": "/collections/mens-chains",
+          "abs": "https://bhavyaramesh.com/collections/mens-chains"
+        },
+        {
+          "text": "Brooches",
+          "href": "/collections/brooches",
+          "abs": "https://bhavyaramesh.com/collections/brooches"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "NeckPiecesShop the range",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "RINGS",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "Shop all rings",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "Men's Rings",
+          "href": "/collections/mens-rings",
+          "abs": "https://bhavyaramesh.com/collections/mens-rings"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "RingsShop the range",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "WRIST WEAR",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "Shop all wrist wear",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "Bracelet",
+          "href": "/collections/bracelet",
+          "abs": "https://bhavyaramesh.com/collections/bracelet"
+        },
+        {
+          "text": "Bangle",
+          "href": "/collections/bangle",
+          "abs": "https://bhavyaramesh.com/collections/bangle"
+        },
+        {
+          "text": "Palm Cuffs",
+          "href": "/collections/palm-cuffs",
+          "abs": "https://bhavyaramesh.com/collections/palm-cuffs"
+        },
+        {
+          "text": "Men's Bracelets & Kada",
+          "href": "/collections/mens-bracelets",
+          "abs": "https://bhavyaramesh.com/collections/mens-bracelets"
+        },
+        {
+          "text": "Cufflinks",
+          "href": "/collections/cufflink",
+          "abs": "https://bhavyaramesh.com/collections/cufflink"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "Wrist WearShop the range",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "MEN'S",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "All men's jewellery",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "Men's Rings",
+          "href": "/collections/mens-rings",
+          "abs": "https://bhavyaramesh.com/collections/mens-rings"
+        },
+        {
+          "text": "Men's Earrings",
+          "href": "/collections/mens-earrings",
+          "abs": "https://bhavyaramesh.com/collections/mens-earrings"
+        },
+        {
+          "text": "Men's Chains & Chokers",
+          "href": "/collections/mens-chains",
+          "abs": "https://bhavyaramesh.com/collections/mens-chains"
+        },
+        {
+          "text": "Men's Bracelets & Kada",
+          "href": "/collections/mens-bracelets",
+          "abs": "https://bhavyaramesh.com/collections/mens-bracelets"
+        },
+        {
+          "text": "Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Bridal & Haldi",
+          "href": "/collections/all-products/occasion-bridal",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-bridal"
+        },
+        {
+          "text": "Wedding",
+          "href": "/collections/all-products/occasion-wedding",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-wedding"
+        },
+        {
+          "text": "Festive",
+          "href": "/collections/all-products/occasion-festive",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-festive"
+        },
+        {
+          "text": "Everyday",
+          "href": "/collections/all-products/occasion-everyday",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-everyday"
+        },
+        {
+          "text": "Party",
+          "href": "/collections/all-products/occasion-party",
+          "abs": "https://bhavyaramesh.com/collections/all-products/occasion-party"
+        },
+        {
+          "text": "Men's JewelleryShop the range",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "MORE",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "Shop all jewellery",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "Ear Clips",
+          "href": "/collections/ear-clips",
+          "abs": "https://bhavyaramesh.com/collections/ear-clips"
+        },
+        {
+          "text": "Palm Cuffs",
+          "href": "/collections/palm-cuffs",
+          "abs": "https://bhavyaramesh.com/collections/palm-cuffs"
+        },
+        {
+          "text": "Hair Accessories",
+          "href": "/collections/hair-accessories",
+          "abs": "https://bhavyaramesh.com/collections/hair-accessories"
+        },
+        {
+          "text": "Nose Pins",
+          "href": "/collections/nose-pins",
+          "abs": "https://bhavyaramesh.com/collections/nose-pins"
+        },
+        {
+          "text": "Bracelets",
+          "href": "/collections/bracelet",
+          "abs": "https://bhavyaramesh.com/collections/bracelet"
+        },
+        {
+          "text": "Bangles",
+          "href": "/collections/bangle",
+          "abs": "https://bhavyaramesh.com/collections/bangle"
+        },
+        {
+          "text": "Anklets",
+          "href": "/collections/anklets-1",
+          "abs": "https://bhavyaramesh.com/collections/anklets-1"
+        },
+        {
+          "text": "Brooches",
+          "href": "/collections/brooches",
+          "abs": "https://bhavyaramesh.com/collections/brooches"
+        },
+        {
+          "text": "Cufflink",
+          "href": "/collections/cufflink",
+          "abs": "https://bhavyaramesh.com/collections/cufflink"
+        },
+        {
+          "text": "Bags",
+          "href": "/collections/bags",
+          "abs": "https://bhavyaramesh.com/collections/bags"
+        },
+        {
+          "text": "All ProductsShop the range",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "StareNew collection",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        }
+      ]
+    },
+    {
+      "tag": "nav",
+      "id": null,
+      "cls": [
+        "navigation",
+        "supports-no-js",
+        "critical-hide"
+      ],
+      "items": [
+        {
+          "text": "JUST LANDED New in",
+          "href": "/collections/new-in",
+          "abs": "https://bhavyaramesh.com/collections/new-in"
+        },
+        {
+          "text": "THE COLLECTION Stare",
+          "href": "/collections/stare",
+          "abs": "https://bhavyaramesh.com/collections/stare"
+        },
+        {
+          "text": "Nail Crown",
+          "href": "/collections/nail-crown",
+          "abs": "https://bhavyaramesh.com/collections/nail-crown"
+        },
+        {
+          "text": "Jalebi",
+          "href": "/collections/jalebi",
+          "abs": "https://bhavyaramesh.com/collections/jalebi"
+        },
+        {
+          "text": "Harmony",
+          "href": "/collections/harmony",
+          "abs": "https://bhavyaramesh.com/collections/harmony"
+        },
+        {
+          "text": "Glarekillers",
+          "href": "/collections/glarekillers",
+          "abs": "https://bhavyaramesh.com/collections/glarekillers"
+        },
+        {
+          "text": "GilGa",
+          "href": "/collections/gilga",
+          "abs": "https://bhavyaramesh.com/collections/gilga"
+        },
+        {
+          "text": "Naraka",
+          "href": "/collections/naraka",
+          "abs": "https://bhavyaramesh.com/collections/naraka"
+        },
+        {
+          "text": "Ancient Aliens",
+          "href": "/collections/ancient-aliens",
+          "abs": "https://bhavyaramesh.com/collections/ancient-aliens"
+        },
+        {
+          "text": "Poison",
+          "href": "/collections/poison",
+          "abs": "https://bhavyaramesh.com/collections/poison"
+        },
+        {
+          "text": "Pankh",
+          "href": "/collections/pankh",
+          "abs": "https://bhavyaramesh.com/collections/pankh"
+        },
+        {
+          "text": "Darlings",
+          "href": "/collections/darlings",
+          "abs": "https://bhavyaramesh.com/collections/darlings"
+        },
+        {
+          "text": "Bhavya x Rosh - Nail Rings",
+          "href": "/collections/bhavya-x-rosh-nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/bhavya-x-rosh-nail-rings"
+        },
+        {
+          "text": "All collections",
+          "href": "/collections",
+          "abs": "https://bhavyaramesh.com/collections"
+        },
+        {
+          "text": "Sunglasses",
+          "href": "/collections/sunglasses",
+          "abs": "https://bhavyaramesh.com/collections/sunglasses"
+        },
+        {
+          "text": "Earrings",
+          "href": "/collections/earrings",
+          "abs": "https://bhavyaramesh.com/collections/earrings"
+        },
+        {
+          "text": "Nail Rings",
+          "href": "/collections/nail-rings",
+          "abs": "https://bhavyaramesh.com/collections/nail-rings"
+        },
+        {
+          "text": "NeckPieces",
+          "href": "/collections/neckpieces",
+          "abs": "https://bhavyaramesh.com/collections/neckpieces"
+        },
+        {
+          "text": "Rings",
+          "href": "/collections/rings",
+          "abs": "https://bhavyaramesh.com/collections/rings"
+        },
+        {
+          "text": "Wrist Wear",
+          "href": "/collections/wrist-wear",
+          "abs": "https://bhavyaramesh.com/collections/wrist-wear"
+        },
+        {
+          "text": "Men's",
+          "href": "/collections/mens-jewellery",
+          "abs": "https://bhavyaramesh.com/collections/mens-jewellery"
+        },
+        {
+          "text": "Ear Clips",
+          "href": "/collections/ear-clips",
+          "abs": "https://bhavyaramesh.com/collections/ear-clips"
+        },
+        {
+          "text": "Palm Cuffs",
+          "href": "/collections/palm-cuffs",
+          "abs": "https://bhavyaramesh.com/collections/palm-cuffs"
+        },
+        {
+          "text": "Hair Accessories",
+          "href": "/collections/hair-accessories",
+          "abs": "https://bhavyaramesh.com/collections/hair-accessories"
+        },
+        {
+          "text": "Nose Pins",
+          "href": "/collections/nose-pins",
+          "abs": "https://bhavyaramesh.com/collections/nose-pins"
+        },
+        {
+          "text": "Bracelets",
+          "href": "/collections/bracelet",
+          "abs": "https://bhavyaramesh.com/collections/bracelet"
+        },
+        {
+          "text": "Bangles",
+          "href": "/collections/bangle",
+          "abs": "https://bhavyaramesh.com/collections/bangle"
+        },
+        {
+          "text": "Anklets",
+          "href": "/collections/anklets-1",
+          "abs": "https://bhavyaramesh.com/collections/anklets-1"
+        },
+        {
+          "text": "Brooches",
+          "href": "/collections/brooches",
+          "abs": "https://bhavyaramesh.com/collections/brooches"
+        },
+        {
+          "text": "Cufflink",
+          "href": "/collections/cufflink",
+          "abs": "https://bhavyaramesh.com/collections/cufflink"
+        },
+        {
+          "text": "Bags",
+          "href": "/collections/bags",
+          "abs": "https://bhavyaramesh.com/collections/bags"
+        },
+        {
+          "text": "All jewellery",
+          "href": "/collections/all-products",
+          "abs": "https://bhavyaramesh.com/collections/all-products"
+        },
+        {
+          "text": "Our stores",
+          "href": "/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "JOURNAL",
+          "href": "/blogs/journal",
+          "abs": "https://bhavyaramesh.com/blogs/journal"
+        },
+        {
+          "text": "ABOUT",
+          "href": "/pages/about-us",
+          "abs": "https://bhavyaramesh.com/pages/about-us"
+        },
+        {
+          "text": "Wishlist",
+          "href": "/pages/swym-wishlist",
+          "abs": "https://bhavyaramesh.com/pages/swym-wishlist"
+        },
+        {
+          "text": "LOG IN",
+          "href": "/account/login",
+          "abs": "https://bhavyaramesh.com/account/login"
+        },
+        {
+          "text": "CREATE ACCOUNT",
+          "href": "/account/register",
+          "abs": "https://bhavyaramesh.com/account/register"
+        },
+        {
+          "text": "SEARCH",
+          "href": "/search",
+          "abs": "https://bhavyaramesh.com/search"
+        },
+        {
+          "text": "JEWELLERY CARE AND MATERIAL",
+          "href": "/pages/jewellery-care",
+          "abs": "https://bhavyaramesh.com/pages/jewellery-care"
+        },
+        {
+          "text": "SHIPPING POLICY",
+          "href": "/pages/shipping-info",
+          "abs": "https://bhavyaramesh.com/pages/shipping-info"
+        },
+        {
+          "text": "RETURNS & EXCHANGE POLICY",
+          "href": "/pages/returns-exchange",
+          "abs": "https://bhavyaramesh.com/pages/returns-exchange"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "/pages/contact-us",
+          "abs": "https://bhavyaramesh.com/pages/contact-us"
+        },
+        {
+          "text": "STOCKISTS",
+          "href": "/pages/stockists",
+          "abs": "https://bhavyaramesh.com/pages/stockists"
+        },
+        {
+          "text": "JOURNAL",
+          "href": "/blogs/journal",
+          "abs": "https://bhavyaramesh.com/blogs/journal"
+        },
+        {
+          "text": "TERMS OF SERVICE",
+          "href": "/policies/terms-of-service",
+          "abs": "https://bhavyaramesh.com/policies/terms-of-service"
+        },
+        {
+          "text": "PRIVACY POLICY",
+          "href": "/policies/privacy-policy",
+          "abs": "https://bhavyaramesh.com/policies/privacy-policy"
+        },
+        {
+          "text": "OUR STORES",
+          "href": "https://bhavyaramesh.com/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "ABOUT",
+          "href": "/pages/about-us",
+          "abs": "https://bhavyaramesh.com/pages/about-us"
+        }
+      ]
+    },
+    {
+      "tag": "footer",
+      "id": null,
+      "cls": [
+        "site-footer"
+      ],
+      "items": [
+        {
+          "text": "SEARCH",
+          "href": "/search",
+          "abs": "https://bhavyaramesh.com/search"
+        },
+        {
+          "text": "JEWELLERY CARE AND MATERIAL",
+          "href": "/pages/jewellery-care",
+          "abs": "https://bhavyaramesh.com/pages/jewellery-care"
+        },
+        {
+          "text": "SHIPPING POLICY",
+          "href": "/pages/shipping-info",
+          "abs": "https://bhavyaramesh.com/pages/shipping-info"
+        },
+        {
+          "text": "RETURNS & EXCHANGE POLICY",
+          "href": "/pages/returns-exchange",
+          "abs": "https://bhavyaramesh.com/pages/returns-exchange"
+        },
+        {
+          "text": "CONTACT US",
+          "href": "/pages/contact-us",
+          "abs": "https://bhavyaramesh.com/pages/contact-us"
+        },
+        {
+          "text": "STOCKISTS",
+          "href": "/pages/stockists",
+          "abs": "https://bhavyaramesh.com/pages/stockists"
+        },
+        {
+          "text": "JOURNAL",
+          "href": "/blogs/journal",
+          "abs": "https://bhavyaramesh.com/blogs/journal"
+        },
+        {
+          "text": "TERMS OF SERVICE",
+          "href": "/policies/terms-of-service",
+          "abs": "https://bhavyaramesh.com/policies/terms-of-service"
+        },
+        {
+          "text": "PRIVACY POLICY",
+          "href": "/policies/privacy-policy",
+          "abs": "https://bhavyaramesh.com/policies/privacy-policy"
+        },
+        {
+          "text": "OUR STORES",
+          "href": "https://bhavyaramesh.com/pages/retail-store",
+          "abs": "https://bhavyaramesh.com/pages/retail-store"
+        },
+        {
+          "text": "ABOUT",
+          "href": "/pages/about-us",
+          "abs": "https://bhavyaramesh.com/pages/about-us"
+        },
+        {
+          "text": "Facebook",
+          "href": "https://www.facebook.com/BhavyaRameshJewelry/",
+          "abs": "https://www.facebook.com/BhavyaRameshJewelry/"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/bhavyarameshjewelry/",
+          "abs": "https://www.instagram.com/bhavyarameshjewelry/"
+        },
+        {
+          "text": "Bhavya Ramesh",
+          "href": "/",
+          "abs": "https://bhavyaramesh.com/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "jalebi",
+      "tag": "body",
+      "top": 0,
+      "height": 3700,
+      "heading": "Jalebi"
+    },
+    {
+      "id": "shopify-section-header",
+      "tag": "div",
+      "top": 0,
+      "height": 155,
+      "heading": ""
+    },
+    {
+      "id": "br-sticky",
+      "tag": "div",
+      "top": -107,
+      "height": 97,
+      "heading": ""
+    },
+    {
+      "id": "MainContent",
+      "tag": "main",
+      "top": 155,
+      "height": 3064,
+      "heading": "Jalebi"
+    },
+    {
+      "id": "shopify-section-collection-template",
+      "tag": "div",
+      "top": 155,
+      "height": 2944,
+      "heading": "Jalebi"
+    },
+    {
+      "id": "shopify-section-footer",
+      "tag": "div",
+      "top": 3219,
+      "height": 481,
+      "heading": ""
+    },
+    {
+      "id": "contact_form",
+      "tag": "form",
+      "top": 3260,
+      "height": 144,
+      "heading": ""
+    },
+    {
+      "id": "NewsletterEmail",
+      "tag": "input",
+      "top": 3332,
+      "height": 46,
+      "heading": ""
+    },
+    {
+      "id": "Subscribe",
+      "tag": "input",
+      "top": 3332,
+      "height": 50,
+      "heading": ""
+    },
+    {
+      "id": "eaAtLanguages",
+      "tag": "select",
+      "top": 761,
+      "height": 55,
+      "heading": ""
+    }
+  ]
+}

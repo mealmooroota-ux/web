@@ -1,0 +1,1508 @@
+{
+  "start_url": "https://indigo-laboratory.it/",
+  "pages": [
+    {
+      "url": "https://indigo-laboratory.it/",
+      "slug": "home",
+      "depth": 0,
+      "breakpoints": {
+        "desktop": {
+          "width": 1440,
+          "status": 200,
+          "height": 43174,
+          "nodes": 1369,
+          "fonts": [
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            }
+          ]
+        },
+        "tablet": {
+          "width": 834,
+          "status": 200,
+          "height": 76291,
+          "nodes": 1321,
+          "fonts": [
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            }
+          ]
+        },
+        "mobile": {
+          "width": 390,
+          "status": 200,
+          "height": 51898,
+          "nodes": 1497,
+          "fonts": [
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "italic",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "600",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Hanken Grotesk",
+              "weight": "700",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "Palette Mosaic",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono Fallback: Arial",
+              "weight": "normal",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "unloaded"
+            },
+            {
+              "family": "IBM Plex Mono",
+              "weight": "400",
+              "style": "normal",
+              "status": "loaded"
+            }
+          ]
+        }
+      },
+      "ok": true,
+      "title": "5 tales of being - Indigo",
+      "meta": {
+        "title": "5 tales of being - Indigo",
+        "lang": "en",
+        "canonical": "https://indigo-laboratory.it/",
+        "viewport": "width=device-width, initial-scale=1",
+        "og:image": "https://indigo-laboratory.it/og-image.jpg",
+        "og:image:type": "image/jpeg",
+        "og:image:width": "1200",
+        "og:image:height": "630",
+        "twitter:image": "https://indigo-laboratory.it/og-image.jpg",
+        "twitter:image:type": "image/jpeg",
+        "twitter:image:width": "1200",
+        "twitter:image:height": "630",
+        "og:type": "website",
+        "robots": "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+        "description": "Indigo tells the value of handcraft and the poetry of living materials that change over time.",
+        "og:title": "5 tales of being",
+        "og:description": "Indigo tells the value of handcraft and the poetry of living materials that change over time.",
+        "og:url": "https://indigo-laboratory.it",
+        "og:locale": "en",
+        "twitter:card": "summary_large_image",
+        "twitter:image:alt": "5 tales of being",
+        "theme-color": "#6a15ff",
+        "og:site_name": "nuxt-app"
+      },
+      "headings": [
+        {
+          "level": 1,
+          "text": "THE INVISIBLE ECHO",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "RHYTHM",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "SELENE RING",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[STORY]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[CRAFTING]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE SOUND WITHIN",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE COLLECTION",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "PULSE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "MORPH RING",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[STORY]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[CRAFTING]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE SOUND WITHIN",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE COLLECTION",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "WHISPER",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "AXIS RING",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[STORY]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[CRAFTING]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE SOUND WITHIN",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE COLLECTION",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "RESONANCE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "ROCK RING",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[STORY]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[CRAFTING]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE SOUND WITHIN",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE COLLECTION",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "SUB-NOISE",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "UNDERTOW RING",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[STORY]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "[CRAFTING]",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE SOUND WITHIN",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "THE COLLECTION",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "FROM FIVE, EVERYTHING BEGINS.",
+          "id": null
+        }
+      ],
+      "nav": [
+        {
+          "tag": "footer",
+          "id": null,
+          "cls": [
+            "the-footer"
+          ],
+          "items": [
+            {
+              "text": "WHATSAPP",
+              "href": "https://wa.me/+393923140573",
+              "abs": "https://wa.me/+393923140573"
+            },
+            {
+              "text": "WHATSAPP",
+              "href": "https://wa.me/+393923140573",
+              "abs": "https://wa.me/+393923140573"
+            },
+            {
+              "text": "EMAIL",
+              "href": "mailto:indigolaboratory@gmail.com",
+              "abs": "mailto:indigolaboratory@gmail.com"
+            },
+            {
+              "text": "EMAIL",
+              "href": "mailto:indigolaboratory@gmail.com",
+              "abs": "mailto:indigolaboratory@gmail.com"
+            },
+            {
+              "text": "INSTAGRAM",
+              "href": "https://www.instagram.com/indigo_laboratory/",
+              "abs": "https://www.instagram.com/indigo_laboratory/"
+            },
+            {
+              "text": "INSTAGRAM",
+              "href": "https://www.instagram.com/indigo_laboratory/",
+              "abs": "https://www.instagram.com/indigo_laboratory/"
+            },
+            {
+              "text": "PRIVACY POLICY",
+              "href": "https://www.iubenda.com/privacy-policy/93898891",
+              "abs": "https://www.iubenda.com/privacy-policy/93898891"
+            },
+            {
+              "text": "COOKIE POLICY",
+              "href": "https://www.iubenda.com/privacy-policy/93898891/cookie-policy",
+              "abs": "https://www.iubenda.com/privacy-policy/93898891/cookie-policy"
+            },
+            {
+              "text": "BACK TO TOP",
+              "href": "#top",
+              "abs": "https://indigo-laboratory.it/#top"
+            },
+            {
+              "text": "PRIVACY POLICY",
+              "href": "https://www.iubenda.com/privacy-policy/93898891",
+              "abs": "https://www.iubenda.com/privacy-policy/93898891"
+            },
+            {
+              "text": "COOKIE POLICY",
+              "href": "https://www.iubenda.com/privacy-policy/93898891/cookie-policy",
+              "abs": "https://www.iubenda.com/privacy-policy/93898891/cookie-policy"
+            }
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "__nuxt",
+          "tag": "div",
+          "top": 0,
+          "height": 43174,
+          "heading": "THE INVISIBLE ECHO"
+        },
+        {
+          "id": "curtains-canvas",
+          "tag": "div",
+          "top": 0,
+          "height": 900,
+          "heading": ""
+        },
+        {
+          "id": "main-content",
+          "tag": "main",
+          "top": 0,
+          "height": 42274,
+          "heading": "THE INVISIBLE ECHO"
+        },
+        {
+          "id": "rhythm",
+          "tag": "section",
+          "top": 1810,
+          "height": 8005,
+          "heading": "RHYTHM"
+        },
+        {
+          "id": "pulse",
+          "tag": "section",
+          "top": 9815,
+          "height": 8146,
+          "heading": "PULSE"
+        },
+        {
+          "id": "whisper",
+          "tag": "section",
+          "top": 17961,
+          "height": 8110,
+          "heading": "WHISPER"
+        },
+        {
+          "id": "resonance",
+          "tag": "section",
+          "top": 26071,
+          "height": 8086,
+          "heading": "RESONANCE"
+        },
+        {
+          "id": "sub-noise",
+          "tag": "section",
+          "top": 34158,
+          "height": 8116,
+          "heading": "SUB-NOISE"
+        }
+      ]
+    }
+  ],
+  "asset_count": 481,
+  "breakpoints": {
+    "desktop": 1440,
+    "tablet": 834,
+    "mobile": 390
+  },
+  "unvisited": []
+}

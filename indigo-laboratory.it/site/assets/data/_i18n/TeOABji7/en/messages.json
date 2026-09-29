@@ -1,0 +1,1 @@
+{"en":{"actions":{"open":"Open","close":"Close","exit":"Exit","back":"Back"},"labels":{"menu":"Menu"},"pages":{"items":{"title":"Items"}},"errors":{"404":{"subtitle":"Page not found","message":"The page you are looking for does not exist."},"500":{"subtitle":"Server error","message":"An internal error occurred."}}}}
